@@ -226,6 +226,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: month
+  order: descending
 
 
 # -----------------------------------------------------------------------------
