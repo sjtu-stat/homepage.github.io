@@ -27,7 +27,11 @@ $ bundle exec jekyll serve
 
 Now, feel free to change the forked repository however you like. After you are done, **commit** your final changes.
 
-## Features
+## Quick Guide
+
+### Create a pull request (PR)
+
+Check [docs](docs/pr.md) about PR creation.
 
 ### Journal Club
 
