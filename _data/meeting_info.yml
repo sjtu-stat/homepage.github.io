@@ -113,10 +113,10 @@
 - presenter: Jingyang Ma
   date: 2022-03-21 20:00:00
   paper: "Avoiding catastrophe: active dendrites enable multi-task learning in dynamic environments"
-  url:
-  pdf:
-  authors:
-  slides:
+  url: https://arxiv.org/abs/2201.00042
+  pdf: https://arxiv.org/pdf/2201.00042.pdf
+  authors: Abhiram Iyer, Karan Grewal, Akash Velu, Lucas Oliveira Souza, Jeremy Forest, Subutai Ahmad
+  slides: https://202.120.13.81:10003/d/f/nxaj2oGQR40WWu3IGndKJGvpmD0mh2El
 
 - presenter: Chongming Liu
   date: 2022-03-16 19:00:00
