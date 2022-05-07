@@ -24,11 +24,11 @@
 
 - presenter: Jingyang Ma
   date: 2022-05-02 20:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
-  slides:
+  paper: Ultrafast Simulation of Large-Scale Neocortical Microcircuitry with Biophysically Realistic Neurons
+  url: https://www.biorxiv.org/content/10.1101/2021.02.22.432356v2
+  pdf: https://www.biorxiv.org/content/10.1101/2021.02.22.432356v2.full.pdf
+  authors: Viktor János Oláh, Nigel P Pedersen and Matthew JM Rowan
+  slides: https://202.120.13.81:10003/d/f/oaKWbI5rSCFZ3ykf8RqtKDBi8jdRP0os
 
 - presenter: Rong Chen
   date: 2022-04-27 19:30:00
