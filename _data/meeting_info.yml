@@ -1,10 +1,42 @@
+- presenter: Ziling Wang
+  date: 2022-05-30 19:30:00
+  paper: "Deep brain stimulation in the subthalamic nucleus for Parkinson’s disease can restore dynamics of striatal networks"
+  url: https://www.pnas.org/doi/full/10.1073/pnas.2120808119
+  pdf:
+  authors: Elie M. Adam, Emery N. Brown, Nancy Kopell, Michelle M. McCarthy
+  slides:
+
+- presenter: Kai Chen
+  date: 2022-05-27 13:30:00
+  paper: Parametric Control of Flexible Timing Through Low-Dimensional Neural Manifolds (2)
+  url: https://doi.org/10.1101/2021.11.08.467806
+  pdf:
+  authors: Manuel Beiran, Nicolas Meirhaeghe, Hansem Sohn, Mehrdad Jazayeri, Srdjan Ostojic
+  slides:
+
+- presenter: Kai Chen
+  date: 2022-05-23 19:30:00
+  paper: Parametric Control of Flexible Timing Through Low-Dimensional Neural Manifolds (1)
+  url: https://doi.org/10.1101/2021.11.08.467806
+  pdf:
+  authors: Manuel Beiran, Nicolas Meirhaeghe, Hansem Sohn, Mehrdad Jazayeri, Srdjan Ostojic
+  slides:
+
+- presenter: Zhenyuan Jin
+  date: 2022-05-20 13:30:00
+  paper: Dynamic models of large-scale brain activity
+  url:
+  pdf:
+  authors: Michael Breakspear
+  slides:
+
 - presenter: Xuexing Du
   date: 2022-05-13 13:30:00
   paper: Introduction to the neural circuit for locomotion in C.elegans 
   url:
   pdf:
   authors:
-  slides:
+  slides: https://202.120.13.81:10003/d/f/oi1ZbS3RbpHFo1xlGZ3JgFpxSVv3GAeg
 
 - presenter: Bo Wang
   date: 2022-05-16 19:30:00
@@ -36,7 +68,7 @@
   url: https://dl.acm.org/doi/10.1145/3394486.3403201
   pdf: https://dl.acm.org/doi/pdf/10.1145/3394486.3403201
   authors: Hongxu Chen, Hongzhi YIN, Xiangguo Sun, Tong Chen, Bogdan Gabrys, Katarzyna Musial
-  slides:
+  slides: https://202.120.13.81:10003/d/f/oSJ1SutmscX5PC4NCSNONeyDMdjsIvsO
 
 - presenter: Ziling Wang
   date: 2022-04-25 20:00:00
@@ -44,15 +76,15 @@
   url: https://www.biorxiv.org/content/10.1101/2020.06.15.148114.abstract
   pdf: https://www.biorxiv.org/content/10.1101/2020.06.15.148114v2.full.pdf
   authors: Hannah Bos, Anne-Marie Oswald, Brent Doiron
-  slides:
+  slides: https://202.120.13.81:10003/d/f/ooGpUQ5tkVI4BFH2xQlkH1o1n3i8SQVC
 
 - presenter: Licheng Zou
   date: 2022-04-20 19:30:00
-  paper: TBD
+  paper: Mechanisms of distributed working memory in a large-scale network of macaque neocortex
   url:
   pdf:
-  authors:
-  slides:
+  authors: Jorge F Mejias, Xiao-Jing Wang
+  slides: https://202.120.13.81:10003/d/f/oMYp0z8OQ40eEQsV4pQLy9AZB4mGleU3
 
 - presenter: Kai Chen
   date: 2022-04-18 20:00:00
@@ -122,8 +154,8 @@
   paper: Circuit mechanisms for the maintenance and manipulation of information in working memory
   url:
   pdf:
-  authors:
-  slides:
+  authors: Nicolas Y. Masse, Guangyu R. Yang, H. Francis Song, Xiao-Jing Wang, David J. Freedman
+  slides: https://202.120.13.81:10003/d/f/oaKHz1rYL4UO6gkWS2J9V7puP4IAHYce
 
 - presenter: Rong Chen
   date: 2022-03-23 19:30:00
@@ -131,7 +163,7 @@
   url:
   pdf:
   authors:
-  slides:
+  slides: https://202.120.13.81:10003/d/f/nzvdb8SxzGZxUDwWiukS8sAlvPNAtKry
 
 - presenter: Jingyang Ma
   date: 2022-03-21 20:00:00
@@ -162,16 +194,16 @@
   paper: Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks (2)
   url:
   pdf:
-  authors:
-  slides:
+  authors: Francesca Mastrogiuseppe, Srdjan Ostojic
+  slides: https://202.120.13.81:10003/d/f/no2sctQx72oF35mYa5kjRb1ny15VB6Qq
 
 - presenter: Licheng Zou 
   date: 2022-03-07 20:00:00
   paper: Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks (1)
   url:
   pdf:
-  authors:
-  slides:
+  authors: Francesca Mastrogiuseppe, Srdjan Ostojic
+  slides: https://202.120.13.81:10003/d/f/no2sctQx72oF35mYa5kjRb1ny15VB6Qq
 
 - presenter: Ziling Wang
   date: 2022-03-02 19:00:00
