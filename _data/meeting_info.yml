@@ -1,26 +1,50 @@
+- presenter: Mingzhang Wang
+  date: 2022-06-13 19:30:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Jingcheng Shi
+  date: 2022-06-10 13:30:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Rong Chen
+  date: 2022-06-06 19:30:00
+  paper: Spiking Graph Convolutional Networks
+  url: https://arxiv.org/abs/2205.02767
+  pdf: https://arxiv.org/pdf/2205.02767.pdf
+  authors: Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo
+  slides:
+
 - presenter: Ziling Wang
-  date: 2022-05-30 19:30:00
+  date: 2022-06-03 13:30:00
   paper: "Deep brain stimulation in the subthalamic nucleus for Parkinson’s disease can restore dynamics of striatal networks"
   url: https://www.pnas.org/doi/full/10.1073/pnas.2120808119
   pdf:
   authors: Elie M. Adam, Emery N. Brown, Nancy Kopell, Michelle M. McCarthy
-  slides:
+  slides: https://202.120.13.81:10003/d/f/ozMs4v4M0yulK2E7n3UXVQvcvO6jyW2r
 
 - presenter: Kai Chen
   date: 2022-05-27 13:30:00
   paper: Parametric Control of Flexible Timing Through Low-Dimensional Neural Manifolds (2)
   url: https://doi.org/10.1101/2021.11.08.467806
-  pdf:
+  pdf: https://www.biorxiv.org/content/10.1101/2021.11.08.467806v1.full.pdf
   authors: Manuel Beiran, Nicolas Meirhaeghe, Hansem Sohn, Mehrdad Jazayeri, Srdjan Ostojic
-  slides:
+  slides: https://202.120.13.81:10003/d/f/oqzUQHEyURaa6ZuC6HaQTIf5xBdMWFaC
 
 - presenter: Kai Chen
   date: 2022-05-23 19:30:00
   paper: Parametric Control of Flexible Timing Through Low-Dimensional Neural Manifolds (1)
   url: https://doi.org/10.1101/2021.11.08.467806
-  pdf:
+  pdf: https://www.biorxiv.org/content/10.1101/2021.11.08.467806v1.full.pdf
   authors: Manuel Beiran, Nicolas Meirhaeghe, Hansem Sohn, Mehrdad Jazayeri, Srdjan Ostojic
-  slides:
+  slides: https://202.120.13.81:10003/d/f/oqzUQHEyURaa6ZuC6HaQTIf5xBdMWFaC
 
 - presenter: Zhenyuan Jin
   date: 2022-05-20 13:30:00
@@ -96,10 +120,10 @@
 
 - presenter: Zheng Wang
   date: 2022-04-13 19:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: A random matrix approach to neural networks
+  url: https://www.jstor.org/stable/26542333?seq=1
+  pdf: https://projecteuclid.org/journals/annals-of-applied-probability/volume-28/issue-2/A-random-matrix-approach-to-neural-networks/10.1214/17-AAP1328.pdf
+  authors: Come Louart, Zhenyu Liao, Romain Couillet
   slides:
 
 - presenter: Muhan Ma
