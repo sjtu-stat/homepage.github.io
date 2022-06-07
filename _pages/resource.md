@@ -4,7 +4,7 @@ permalink: /resources/
 title: resources
 description: Data and tools facilitate your research.
 nav: true
-order: 3
+nav_order: 3
 ---
 
 ## Data

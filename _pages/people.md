@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description:
 nav: true
-order: 1
+nav_order: 1
 display_categories: [Principal Investigators, PhD Students, Master's Students, Undergraduates, Visiting Students, Alumni]
 title_off: true
 ---

@@ -14,6 +14,7 @@ For more about how to use Jekyll, check out [this tutorial](https://www.taniaras
 ### Installation
 
 Please install Ruby, Bundler and Jekyll with the help of [link](https://jekyllrb.com/docs/installation/) here on your system.
+
 ### Local setup
 
 Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](https://bundler.io/) installed on your system (*hint: for ease of managing ruby gems, consider using [rbenv](https://github.com/rbenv/rbenv)*), first [fork](https://guides.github.com/activities/forking/) the repo from `github.com:LCNS-SJTU/lcns-sjtu.github.io` to `github.com:<your-username>/<your-repo-name>` and do the following:
@@ -45,11 +46,11 @@ Check [here](docs/people.md) for docs about adding new profiles of group members
 
 Check [here](docs/publications.md) for docs about adding new bib items.
 
-
 ---
+
 ## TODO
 
-- [ ] Add tutorial for openning a pull-request.
+- [x] Add tutorial for openning a pull-request.
 - [ ] Finish the resource page.
-- [ ] Add profile avatars for rest of group members.
+- [x] Add profile avatars for rest of group members.
 - [ ] Create project page.
