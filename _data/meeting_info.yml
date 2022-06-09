@@ -8,10 +8,10 @@
 
 - presenter: Mingzhang Wang
   date: 2022-06-10 13:30:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors:
+  paper: Nonlinear stimulus representations in neural circuits with approximate excitatory-inhibitory balance
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008192
+  pdf: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1008192&type=printable
+  authors: Cody Baker, Vicky Zhu, Robert Rosenbaum
   slides:
 
 - presenter: Rong Chen
