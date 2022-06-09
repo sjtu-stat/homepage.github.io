@@ -1,12 +1,12 @@
-- presenter: Mingzhang Wang
+- presenter: Jingcheng Shi
   date: 2022-06-13 19:30:00
-  paper: TBD
+  paper: "[Project report] The study of working memory mechanisms based on recurrent neural networks"
   url: 
   pdf: 
   authors:
   slides:
 
-- presenter: Jingcheng Shi
+- presenter: Mingzhang Wang
   date: 2022-06-10 13:30:00
   paper: TBD
   url: 
@@ -49,14 +49,14 @@
 - presenter: Zhenyuan Jin
   date: 2022-05-20 13:30:00
   paper: Dynamic models of large-scale brain activity
-  url:
-  pdf:
+  url: https://www.nature.com/articles/nn.4497
+  pdf: https://www.nature.com/articles/nn.4497.pdf
   authors: Michael Breakspear
   slides:
 
 - presenter: Xuexing Du
   date: 2022-05-13 13:30:00
-  paper: Introduction to the neural circuit for locomotion in C.elegans 
+  paper: "[Project report] Introduction to the neural circuit for locomotion in C.elegans"
   url:
   pdf:
   authors:
@@ -105,8 +105,8 @@
 - presenter: Licheng Zou
   date: 2022-04-20 19:30:00
   paper: Mechanisms of distributed working memory in a large-scale network of macaque neocortex
-  url:
-  pdf:
+  url: https://doi.org/10.7554/eLife.72136
+  pdf: https://elifesciences.org/articles/72136.pdf
   authors: Jorge F Mejias, Xiao-Jing Wang
   slides: https://202.120.13.81:10003/d/f/oMYp0z8OQ40eEQsV4pQLy9AZB4mGleU3
 
@@ -176,17 +176,17 @@
 - presenter: Jingcheng Shi
   date: 2022-03-28 20:00:00
   paper: Circuit mechanisms for the maintenance and manipulation of information in working memory
-  url:
-  pdf:
+  url: https://www.nature.com/articles/s41593-019-0414-3
+  pdf: https://www.nature.com/articles/s41593-019-0414-3.pdf
   authors: Nicolas Y. Masse, Guangyu R. Yang, H. Francis Song, Xiao-Jing Wang, David J. Freedman
   slides: https://202.120.13.81:10003/d/f/oaKHz1rYL4UO6gkWS2J9V7puP4IAHYce
 
 - presenter: Rong Chen
   date: 2022-03-23 19:30:00
   paper: The node-similarity distribution of complex networks and it's application in link prediction
-  url:
-  pdf:
-  authors:
+  url: https://ieeexplore.ieee.org/abstract/document/9205595
+  pdf: https://arxiv.org/pdf/1710.10738
+  authors: Cunlai Pu, Jie Li, Jian Wang, Tony Q.S. Quek
   slides: https://202.120.13.81:10003/d/f/nzvdb8SxzGZxUDwWiukS8sAlvPNAtKry
 
 - presenter: Jingyang Ma
@@ -209,40 +209,40 @@
   date: 2022-03-14 20:00:00
   paper: "Random Matrix Methods for Machine Learning: When Theory meets Applications"
   url:
-  pdf:
-  authors:
+  pdf: https://zhenyu-liao.github.io/pdf/RMT4ML.pdf
+  authors: Romain Couillet, Zhenyu Liao
   slides:
 
 - presenter: Licheng Zou
   date: 2022-03-09 19:00:00
   paper: Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks (2)
-  url:
-  pdf:
+  url: https://www.sciencedirect.com/science/article/pii/S0896627318305439?via%3Dihub
+  pdf: https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627317X00160/1-s2.0-S0896627318305439/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJIMEYCIQDX24Y%2FSZYh45zhQlNADbB%2Ffnz9P7ca1yd0REfaDR9OGQIhAMjautmNura%2FPQz8wt1kQ5elr9%2B3O6YcIXcOUsfuOc5LKtsECP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1IgyNgMRjQe9Mg10t0SgqrwQNmOrSgtA%2FKXhE8pJszvZj4T7wyU5AZLqMsIgVxQtsVXPje%2F%2FCX0FUSM3U6a6aXkrXJ%2FvsxNqTTep6%2FDvMP6vOQiuCL7OtmywMSJ47GjTvUW80CjoOGqzuwzl6wBA2ec%2BWU09yeHq%2B7RLWirlMZJg1loMvbWHhbZRiPbkuGU3wxsyfjpq1EvcqkLww3NhsfDyIfSDNqlZqWaPXYNTnMCV%2FVrOcZMAoC0perV7AVz7650MaPwSc6ut3tBuoYLsNoNtUtKUQhgUOlq4ARfcTEEI1m5Fen0C9hQF9Q9x0vNRDAcLQr5Lblc2cmZLrGcd7y%2BIxW9n2HLEBs2Ys4J0dneNDb6%2ByZzwAE%2FLQJgUxGrPNhD%2FBK%2FnrMBCrCMsYU8T9tlIPl7l0BfGwFOq%2F6%2BkKDccRs%2BbD%2FsT44hW9%2BrHw1tpOBce8FABQk7QFvdcRz2RruGMfwGLShj31zqLW7SQaXkdDySp82ZQZ01conEn8I5Bwl498evS4QnGEl48TX1qPYcvaGOlargHGxuPkkoLmYpHNafkWjIwORMq8%2F80O3BGHaUf9607yfkhrboX%2BQKMbOENfNrGsyGnGQ38QPdBXONAr6yMDUOs%2F5zesu32VvAFa5vUTeVqW4wr7X29OWP84yYw4VuqolqgEq5YLMWQJEe63FsbVsIprkLioeKGECqPWBYc0vqjwVUTbT3ieWMOYqZnr3OhVOM%2BZ3Kof%2BuDBC2LT1bWKcvkew5h3%2BLxhZdRUMOTthZUGOqgBBpc5n04dHlkgqSJgcYOy5vbhNjIPD%2FhNQ%2Fo2%2BjqJu7drqvgwjQK%2FRsftaImJXTYl6dtkVjFWlwtAfB1fP1%2F2Qltp0tgNAJKhU78chOgA%2B4VZz3m2fkyMtbzjjmmKPtZz0xrPydNHSQsqI4edXVOjgEsTWqQKDxhdUUcq%2FCdfJ2pR24jDtD7CSUAEzxxwlIp9nsRrYLjUriS1ogq7n5OyY%2FBH%2FOCH5y95&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220609T052931Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVB357LGF%2F20220609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c7c755cf717c0c3dc1ae48a40928f623ad605700a89233994a6e2c2806b9f736&hash=ce93ff4755e96479ca29f2cecc19321c2f0c1e17ab9112210752ed98bcb72c0f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627318305439&tid=spdf-56e448c4-ad44-4ece-baee-16f2e824c847&sid=8a7914212a6d4943c759b368e665abb5f552gxrqa&type=client&ua=4d5f5f55525b535d0d07&rr=71877852bdd8af36
   authors: Francesca Mastrogiuseppe, Srdjan Ostojic
   slides: https://202.120.13.81:10003/d/f/no2sctQx72oF35mYa5kjRb1ny15VB6Qq
 
 - presenter: Licheng Zou 
   date: 2022-03-07 20:00:00
   paper: Linking Connectivity, Dynamics, and Computations in Low-Rank Recurrent Neural Networks (1)
-  url:
-  pdf:
+  url: https://www.sciencedirect.com/science/article/pii/S0896627318305439?via%3Dihub
+  pdf: https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627317X00160/1-s2.0-S0896627318305439/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJIMEYCIQDX24Y%2FSZYh45zhQlNADbB%2Ffnz9P7ca1yd0REfaDR9OGQIhAMjautmNura%2FPQz8wt1kQ5elr9%2B3O6YcIXcOUsfuOc5LKtsECP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1IgyNgMRjQe9Mg10t0SgqrwQNmOrSgtA%2FKXhE8pJszvZj4T7wyU5AZLqMsIgVxQtsVXPje%2F%2FCX0FUSM3U6a6aXkrXJ%2FvsxNqTTep6%2FDvMP6vOQiuCL7OtmywMSJ47GjTvUW80CjoOGqzuwzl6wBA2ec%2BWU09yeHq%2B7RLWirlMZJg1loMvbWHhbZRiPbkuGU3wxsyfjpq1EvcqkLww3NhsfDyIfSDNqlZqWaPXYNTnMCV%2FVrOcZMAoC0perV7AVz7650MaPwSc6ut3tBuoYLsNoNtUtKUQhgUOlq4ARfcTEEI1m5Fen0C9hQF9Q9x0vNRDAcLQr5Lblc2cmZLrGcd7y%2BIxW9n2HLEBs2Ys4J0dneNDb6%2ByZzwAE%2FLQJgUxGrPNhD%2FBK%2FnrMBCrCMsYU8T9tlIPl7l0BfGwFOq%2F6%2BkKDccRs%2BbD%2FsT44hW9%2BrHw1tpOBce8FABQk7QFvdcRz2RruGMfwGLShj31zqLW7SQaXkdDySp82ZQZ01conEn8I5Bwl498evS4QnGEl48TX1qPYcvaGOlargHGxuPkkoLmYpHNafkWjIwORMq8%2F80O3BGHaUf9607yfkhrboX%2BQKMbOENfNrGsyGnGQ38QPdBXONAr6yMDUOs%2F5zesu32VvAFa5vUTeVqW4wr7X29OWP84yYw4VuqolqgEq5YLMWQJEe63FsbVsIprkLioeKGECqPWBYc0vqjwVUTbT3ieWMOYqZnr3OhVOM%2BZ3Kof%2BuDBC2LT1bWKcvkew5h3%2BLxhZdRUMOTthZUGOqgBBpc5n04dHlkgqSJgcYOy5vbhNjIPD%2FhNQ%2Fo2%2BjqJu7drqvgwjQK%2FRsftaImJXTYl6dtkVjFWlwtAfB1fP1%2F2Qltp0tgNAJKhU78chOgA%2B4VZz3m2fkyMtbzjjmmKPtZz0xrPydNHSQsqI4edXVOjgEsTWqQKDxhdUUcq%2FCdfJ2pR24jDtD7CSUAEzxxwlIp9nsRrYLjUriS1ogq7n5OyY%2FBH%2FOCH5y95&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220609T052931Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVB357LGF%2F20220609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c7c755cf717c0c3dc1ae48a40928f623ad605700a89233994a6e2c2806b9f736&hash=ce93ff4755e96479ca29f2cecc19321c2f0c1e17ab9112210752ed98bcb72c0f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627318305439&tid=spdf-56e448c4-ad44-4ece-baee-16f2e824c847&sid=8a7914212a6d4943c759b368e665abb5f552gxrqa&type=client&ua=4d5f5f55525b535d0d07&rr=71877852bdd8af36
   authors: Francesca Mastrogiuseppe, Srdjan Ostojic
   slides: https://202.120.13.81:10003/d/f/no2sctQx72oF35mYa5kjRb1ny15VB6Qq
 
 - presenter: Ziling Wang
   date: 2022-03-02 19:00:00
   paper: The striatum organizes 3D behavior via moment-to-moment action selection
-  url:
-  pdf:
-  authors:
+  url: https://www.sciencedirect.com/science/article/pii/S0092867418305129
+  pdf: https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867417X00147/1-s2.0-S0092867418305129/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJIMEYCIQDX24Y%2FSZYh45zhQlNADbB%2Ffnz9P7ca1yd0REfaDR9OGQIhAMjautmNura%2FPQz8wt1kQ5elr9%2B3O6YcIXcOUsfuOc5LKtsECP7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBBoMMDU5MDAzNTQ2ODY1IgyNgMRjQe9Mg10t0SgqrwQNmOrSgtA%2FKXhE8pJszvZj4T7wyU5AZLqMsIgVxQtsVXPje%2F%2FCX0FUSM3U6a6aXkrXJ%2FvsxNqTTep6%2FDvMP6vOQiuCL7OtmywMSJ47GjTvUW80CjoOGqzuwzl6wBA2ec%2BWU09yeHq%2B7RLWirlMZJg1loMvbWHhbZRiPbkuGU3wxsyfjpq1EvcqkLww3NhsfDyIfSDNqlZqWaPXYNTnMCV%2FVrOcZMAoC0perV7AVz7650MaPwSc6ut3tBuoYLsNoNtUtKUQhgUOlq4ARfcTEEI1m5Fen0C9hQF9Q9x0vNRDAcLQr5Lblc2cmZLrGcd7y%2BIxW9n2HLEBs2Ys4J0dneNDb6%2ByZzwAE%2FLQJgUxGrPNhD%2FBK%2FnrMBCrCMsYU8T9tlIPl7l0BfGwFOq%2F6%2BkKDccRs%2BbD%2FsT44hW9%2BrHw1tpOBce8FABQk7QFvdcRz2RruGMfwGLShj31zqLW7SQaXkdDySp82ZQZ01conEn8I5Bwl498evS4QnGEl48TX1qPYcvaGOlargHGxuPkkoLmYpHNafkWjIwORMq8%2F80O3BGHaUf9607yfkhrboX%2BQKMbOENfNrGsyGnGQ38QPdBXONAr6yMDUOs%2F5zesu32VvAFa5vUTeVqW4wr7X29OWP84yYw4VuqolqgEq5YLMWQJEe63FsbVsIprkLioeKGECqPWBYc0vqjwVUTbT3ieWMOYqZnr3OhVOM%2BZ3Kof%2BuDBC2LT1bWKcvkew5h3%2BLxhZdRUMOTthZUGOqgBBpc5n04dHlkgqSJgcYOy5vbhNjIPD%2FhNQ%2Fo2%2BjqJu7drqvgwjQK%2FRsftaImJXTYl6dtkVjFWlwtAfB1fP1%2F2Qltp0tgNAJKhU78chOgA%2B4VZz3m2fkyMtbzjjmmKPtZz0xrPydNHSQsqI4edXVOjgEsTWqQKDxhdUUcq%2FCdfJ2pR24jDtD7CSUAEzxxwlIp9nsRrYLjUriS1ogq7n5OyY%2FBH%2FOCH5y95&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220609T053425Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVB357LGF%2F20220609%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8fb4dd1e8b7201e3497b81b31704987d6ee68f76cf384dfb486893def6dd38a3&hash=77e16c83b2df3c95fbe764c0f151a3e6475abe82830418eadda9b8d78b34cf1f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0092867418305129&tid=spdf-ff14d97b-1f03-4f53-b978-e341c612d240&sid=8a7914212a6d4943c759b368e665abb5f552gxrqa&type=client&ua=4d5f5f5552055e5f0c5b&rr=71877f80c836af36
+  authors: Jeffrey E. Markowitz, Winthrop F. Gillis, Celia C. Beron, Shay Q. Neufeld, Keiramarie Robertson, Neha D. Bhagat, Ralph E. Peterson, Emalee Peterson, Minsuk Hyun, Scott W. Linderman, Bernardo L. Sabatini, Sandeep Robert Datta
   slides:
 
 - presenter: Mingzhang Wang
   date: 2022-02-28 20:00:00
   paper: Larger GPU-accelerated brain simulations with procedural connectivity
-  url:
-  pdf:
-  authors:
+  url: https://www.nature.com/articles/s43588-020-00022-7
+  pdf: https://www.biorxiv.org/content/10.1101/2020.04.27.063693.full.pdf
+  authors: James C. Knight, Thomas Nowotny 
   slides:
 
 - presenter: Kai Chen
@@ -264,8 +264,8 @@
 - presenter: Bo Wang
   date: 2022-02-16 19:00:00
   paper: Self-backpropagation of synaptic modifications elevates the efficiency of spiking and artificial neural networks
-  url:
-  pdf:
+  url: https://www.science.org/doi/full/10.1126/sciadv.abh0146
+  pdf: https://www.science.org/doi/epdf/10.1126/sciadv.abh0146
   authors: Tielin Zhang, Xiang Cheng, Shuncheng Jia, Mu-ming Poo, Yi Zeng, Bo Xu*
   slides:
 
