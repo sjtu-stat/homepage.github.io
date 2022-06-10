@@ -1,3 +1,43 @@
+- presenter: Zheng Wang
+  date: 2022-07-04 19:30:00
+  paper: 
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Jingyang Ma
+  date: 2022-07-01 13:30:00
+  paper: 
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Chongming Liu
+  date: 2022-06-27 19:30:00
+  paper: 
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Bo Wang
+  date: 2022-06-20 19:30:00
+  paper: 
+  url: 
+  pdf: 
+  authors:
+  slides:
+
+- presenter: Xuexing Du
+  date: 2022-06-17 13:30:00
+  paper: 
+  url: 
+  pdf: 
+  authors:
+  slides:
+
 - presenter: Jingcheng Shi
   date: 2022-06-13 19:30:00
   paper: "[Project report] The study of working memory mechanisms based on recurrent neural networks"
@@ -268,6 +308,14 @@
   pdf: https://www.science.org/doi/epdf/10.1126/sciadv.abh0146
   authors: Tielin Zhang, Xiang Cheng, Shuncheng Jia, Mu-ming Poo, Yi Zeng, Bo Xu*
   slides:
+
+- presenter: Jingcheng Shi
+  date: 2021-12-27 19:00:00
+  paper: Task representations in neural networks trained to perform many cognitive tasks
+  url: https://doi.org/10.1038/s41593-018-0310-2
+  pdf: https://www.nature.com/articles/s41593-018-0310-2.pdf
+  authors: Guangyu Robert Yang, Madhura R. Joglekar, H. Francis Song, William T. Newsome, Xiao-Jing Wang
+  slides: https://202.120.13.81:10003/d/f/oaLUaZzFKcBZuHAVMn777LXiL6jw6Mez
 
 - presenter: Kai Chen
   date: 2021-12-13 19:00:00
