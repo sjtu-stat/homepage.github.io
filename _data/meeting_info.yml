@@ -1,6 +1,6 @@
 - presenter: Zheng Wang
   date: 2022-07-04 19:30:00
-  paper: 
+  paper: TBD
   url: 
   pdf: 
   authors:
@@ -8,31 +8,31 @@
 
 - presenter: Jingyang Ma
   date: 2022-07-01 13:30:00
-  paper: 
+  paper: TBD
   url: 
   pdf: 
   authors:
   slides:
 
 - presenter: Chongming Liu
-  date: 2022-06-27 19:30:00
-  paper: 
-  url: 
-  pdf: 
-  authors:
+  date: 2022-06-17 19:00:00
+  paper: "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions"
+  url: https://link.springer.com/article/10.1186/s40537-021-00444-8
+  pdf: https://link.springer.com/content/pdf/10.1186/s40537-021-00444-8.pdf
+  authors: Laith Alzubaidi, Jinglan Zhang, Amjad J. Humaidi, Ayad Al-Dujaili, Ye Duan, Omran Al-Shamma, J. Santamaría, Mohammed A. Fadhel, Muthana Al-Amidie, Laith Farhan
   slides:
 
 - presenter: Bo Wang
   date: 2022-06-20 19:30:00
-  paper: 
+  paper: TBD
   url: 
   pdf: 
   authors:
   slides:
 
 - presenter: Xuexing Du
-  date: 2022-06-17 13:30:00
-  paper: 
+  date: 2022-06-27 19:30:00
+  paper: TBD
   url: 
   pdf: 
   authors:
