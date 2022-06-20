@@ -6,9 +6,9 @@
   authors:
   slides:
 
-- presenter: Jingyang Ma
+- presenter: Licheng Zou
   date: 2022-07-01 13:30:00
-  paper: TBD
+  paper: TB
   url: 
   pdf: 
   authors:
@@ -20,14 +20,14 @@
   url: https://link.springer.com/article/10.1186/s40537-021-00444-8
   pdf: https://link.springer.com/content/pdf/10.1186/s40537-021-00444-8.pdf
   authors: Laith Alzubaidi, Jinglan Zhang, Amjad J. Humaidi, Ayad Al-Dujaili, Ye Duan, Omran Al-Shamma, J. Santamaría, Mohammed A. Fadhel, Muthana Al-Amidie, Laith Farhan
-  slides:
+  slides: https://202.120.13.81:10003/d/f/p8cWVGSpEE3YakiWmlJ3sIQgQ1wvsWzX
 
 - presenter: Bo Wang
   date: 2022-06-20 19:30:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors:
+  paper: A Long Short-Term Memory for AI Applications in Spike-based Neuromorphic Hardware
+  url: https://www.nature.com/articles/s42256-022-00480-w
+  pdf: https://arxiv.org/pdf/2107.03992.pdf
+  authors: Arjun Rao, Philipp Plank, Andreas Wild, Wolfgang Maass
   slides:
 
 - presenter: Xuexing Du
@@ -60,7 +60,7 @@
   url: https://arxiv.org/abs/2205.02767
   pdf: https://arxiv.org/pdf/2205.02767.pdf
   authors: Zulun Zhu, Jiaying Peng, Jintang Li, Liang Chen, Qi Yu, Siqiang Luo
-  slides:
+  slides: https://202.120.13.81:10003/d/f/p9JSTOT58HZ09nD8D97GVN16QymSOK0H
 
 - presenter: Ziling Wang
   date: 2022-06-03 13:30:00
