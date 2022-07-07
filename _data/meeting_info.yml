@@ -1,5 +1,5 @@
 - presenter: Zheng Wang
-  date: 2022-07-15 19:30:00
+  date: 2022-07-15 13:30:00
   paper: TBD
   url: 
   pdf: 
@@ -7,7 +7,7 @@
   slides:
 
 - presenter: Licheng Zou
-  date: 2022-07-11 13:30:00
+  date: 2022-07-11 19:30:00
   paper: TBD
   url: 
   pdf: 
@@ -31,11 +31,11 @@
   slides:
 
 - presenter: Xuexing Du
-  date: 2022-07-08 19:30:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors:
+  date: 2022-07-08 13:30:00
+  paper: "Can we reverse-engineer the simple brain of a tiny worm?"
+  url: https://www.nature.com/articles/s41467-022-30452-y
+  pdf: https://www.nature.com/articles/s41467-022-30452-y.pdf
+  authors: Jingyuan Jiang, Yifan Su, Ruilin Zhang, Haiwen Li, Louis Tao, Qiang Liu
   slides:
 
 - presenter: Jingcheng Shi
