@@ -8,10 +8,10 @@
 
 - presenter: Licheng Zou
   date: 2022-07-11 19:30:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors:
+  paper: A dopamine gradient controls access to distributed working memory in the large-scale monkey cortex
+  url: https://www.sciencedirect.com/science/article/pii/S0896627321006218
+  pdf: https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627320X00225/1-s2.0-S0896627321006218/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAEaCXVzLWVhc3QtMSJGMEQCIHpxKVeMH79UBtY2KBKXSMA%2FleWXVEfPYlcl2dFEK07AAiADi46fi75uzQGcUs86HKP49E2URxwrTig2yi9hX4cy6yrSBAg6EAQaDDA1OTAwMzU0Njg2NSIMSzQNydo%2BWP8igUfFKq8EP%2FI0eydC5hr1SNhJ5aVNx%2B5MD5KhRrF1RhnV9AJ1V7ws7YqXjX6Yaq5DLo5Skff7Wgb%2FBwcIpt3sAUMPUT%2BVblZ%2FgY6eM8LZb34fsJjQfPS%2FDOdTO9ce%2FKRJeGn65JZCkhdTBQ0B9TVbB8S5bYAuojlXKM9jK7jw9Ce86MXJd5DJ3Kt2B7FOeEPyAH1qEYk6EkH%2BoKTFHBRM0PzjH2Ver%2BCPP68%2FfJXUqvR1mUXXnlH9%2F0dCihMc4x8zIyLQytHV%2FvLhvV8WOUqAsPBGydoWwZKk2PFD7MiVmCB8paegEWh%2FemNUMuuEBpclb2Tx%2BjF0y0T3jn6bK%2FWHML2mJb53hIZVzFpMr7US7H3hYrkj%2BKSokNkyYn%2FIuMclTHBGkmJ%2FOrBs%2BTJ8JuMYCBBwKGl3PqKxc7JYjBhPegouVa54teoWEBGTjD%2BbZl42cyb0ySO0BPLPveasnY%2FB36CY0Gourq%2FoyyQxvAOVZxiWIBBTRz257Pby1X%2BBGLptb8sGIhv4ssUCJrLxHl5bMxmkFJE6%2FV98awx1SeOOmNc0jfaWwAb%2BOt2eCihda3m10BWIHJEjyrTZ3TeywSp9%2FDoHfQZ9fyNKBjriwYPtScODPZg0CA8it1YwLne4keQTsRywdVxBAgOK7DCiSEP%2BvRfxzqQlnEhXRTLp11AnsHToG9vplZn67LK4L88WA16XJTW3HtLLQz%2FbFzwPtfvsfyWy%2FOdttfnET0RJ1ps50zsFdljP2TCA4q2WBjqqAf7L%2FTl%2FK6lIP4Lz8twR1%2FF4R1YaJfAlRGI16j3QzQek41q75G0xI2kKTPxiEQnDUALsnslMgU9HwFpXu1o3%2FkyOcjrI5Kmb7XPjpRLT37mwYS%2BPfYYEEziY6UVCuesXfeKmSJtxfldY1LM4phHTWS5AJu79JX1u0q846kUkTbYPfRGBQevu%2FrKPl7oU2puANYNC8Yq6dpq9h47vKwzTRbGHx5JcY6iDuTHI&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220711T015819Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUHC4H4RF%2F20220711%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4a3ff32cf171d81447142751e3ecb5dfd871302f13f8b42033f2cfd5c18276f4&hash=b3c3ddf75dd4c64ac95cf5880c0af574820f7ef3e30eb535f8a3a5032bd72c67&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627321006218&tid=spdf-47329025-22ce-4030-9c9f-2f4ad4ef2cf8&sid=802baea81dd938437c886ef0b7f3b896e77fgxrqa&type=client&ua=4d5c5f060006005e5d02&rr=728deef12a6e31b5
+  authors: Sean Froudist-Walsh, Daniel P. Bliss, Xingyu Ding, Lucija Rapan, Meiqi Niu, Kenneth Knoblauch, Karl Zilles, Henry Kennedy, Nicola Palomero-Gallagher, Xiao-Jing Wang
   slides:
 
 - presenter: Chongming Liu
