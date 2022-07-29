@@ -3,8 +3,8 @@ layout: page
 permalink: /resources/
 title: resources
 description: Data and tools facilitate your research.
-nav: true
-nav_order: 3
+nav: false
+# nav_order: 3
 ---
 
 ## Data
