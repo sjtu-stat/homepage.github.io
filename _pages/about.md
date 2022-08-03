@@ -7,6 +7,7 @@ subtitle:
 # profile:
 #   align: right
 #   image: sjtu-logo.png
+#   image_cicular: false # crops the image to make it circular
 #   address: >
 #     <p>No.6 Science Building</p>
 #     <p>No.800 Dongchuan Rd.</p>
