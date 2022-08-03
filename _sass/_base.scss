@@ -856,3 +856,8 @@ tbody tr.future-item {
     color: $green-color;
   }
 }
+
+.lab-logo {
+  content:var(--global-logo);
+  max-width: 100px;
+}
