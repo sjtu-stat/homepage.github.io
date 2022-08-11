@@ -24,15 +24,15 @@
 
 - presenter: Ziling Wang
   date: 2022-08-12 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: Learning prediction error neurons in a canonical interneuron circuit
+  url: https://doi.org/10.7554/eLife.57541
+  pdf: https://elifesciences.org/articles/57541.pdf
+  authors: Loreen Hertäg, Henning Sprekeler
   slides:
 
 - presenter: Muhan Ma
   date: 2022-08-09 10:00:00
-  paper: TBD
+  paper: "[Project report] The large scale dynamical model of the macaque cortex"
   url:
   pdf:
   authors:
