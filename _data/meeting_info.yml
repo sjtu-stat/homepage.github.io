@@ -1,9 +1,9 @@
 - presenter: Xuexing Du
   date: 2022-08-26 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: "OpenWorm: overview and recent advances in integrative biological simulation of Caenorhabditis elegans"
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0382
+  pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2017.0382
+  authors: Gopal P. Sarma, Chee Wai Lee, Tom Portegys, Vahid Ghayoomie, Travis Jacobs, Bradly Alicea, Matteo Cantarelli, Michael Currie, Richard C. Gerkin, Shane Gingell, Padraig Gleeson, Richard Gordon, Ramin M. Hasani, Giovanni Idili, Sergey Khayrulin, David Lung, Andrey Palyanov, Mark Watts, Stephen D. Larson
   slides:
 
 - presenter: Jingyang Ma
@@ -12,7 +12,7 @@
   url: https://www.sciencedirect.com/science/article/pii/S0306452221005017
   pdf: https://pdf.sciencedirectassets.com/271071/1-s2.0-S0306452222X00080/1-s2.0-S0306452221005017/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAkaCXVzLWVhc3QtMSJHMEUCIFZc9wkyZHe8rcfg4uOLELpfXSSv90%2BAymmoW9ZdFR8mAiEA1HDoY8G4%2B7CBXgu8lNkmOn8O1NN8ypZYdh01zGK844Uq2wQIgv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDJWV8d2X1zA0SkUdSSqvBN0O4L5RSVYvT0%2FE25capHxQ8tJJxdfL3ep1FO%2F%2FGOy0H1zN1pexTyH6x9T5z4BIKqyTEB41qlY6mKfO21KdcRjxD6AYCuyxpBMJi69MxbaXoHDFHWGx05JCqwl7kx6SqaFuNfCjJn1nNh7%2FWvoREO3eNUiAEJ8iPbHnGSTmF0BkNagNff%2BCJmjyNkh8Xkmlg7VWsrv3VczqSp22rwquSDSikDpGbbpvr0RpqCArdBockM%2FPLMGwEVH5zUI2OZEKWj0R9IuVYgImfLp0hkXvNlUG40hcQGdTKO5I3SIO15d39RDPoZrcCM7JswHEVLkaLDr21K%2FgwaEdj1kMz6kLTK%2FonXjuVb0sgXXYpLxJ%2Bo3rrWIVmXg1ePBZCV5CC5wpZxOxY7dePF%2F5yg7RKpdsAk0f5WY5brBUv%2FqncbQV5hpfoQRVBq3qN4iQEBLjOqDskzqIestgokFy7mYPlMKZgAH0dUVO%2B3s%2BObj2DppHCYGMrnxcOTPCaPHZI%2BqyMPeZWJG22CjQWXenQK4uvhnqDTfUEMD9AGa7IUF0VOo2TcBdqJSrI27%2B31Kc0v6rEMG70vIuEKGs4Ib6BLeXdPDi3h3vrK1TL%2FcqcktVfngFCOh1jBVlKekA80ocKdLov0H1V4cyPA%2Fy4EARXHx4OBLN2%2FrbFuOEYY%2BNkNYh9y0Dib1GSm4GkD2rPKQC4QFNAN%2F8Pmi9j8mFqqmtbSkJD1tAyzyLtqlMCNyM1893MBi3i3Yw98uQmAY6qQFVgZBi7ygb0y%2FN9dHzNa%2F%2F4ua8NzAnWqbr%2B70GmDimiO7xVWxMlOerGC7D5%2BxtBBrlU7P73tnXA29vjA3TfaBIhOxUDYYb5pAi0hV86En%2F%2FJ2iYtc2%2BcLIN5ReehmGfbAW0eZ8oCeY4pCRk5Rqa8kudNeYFLbzSHgr3dNYgxc7coBlvqZ2RYVxZgjH6j1FEsVaM4M29T02zGgjPFGBGKtaJRiQTuMlwedW&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220823T014254Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYY54J3ENR%2F20220823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=e1326cfdea4eac8ebacf52ae588939cd16ff249c886519b43edb6740b20e8e6c&hash=843d32c4a525b997a3203a4eb71da31caef59be699dd5ede3a243a789581e17f&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0306452221005017&tid=spdf-3a1b02ab-55fc-4c14-9f67-094069822980&sid=3105b4238ebde641dd297e4547a91ff09c13gxrqb&type=client&ua=4d5d01525754510b0e5a&rr=73f0277da9009956
   authors: Jyotibdha Acharya, Arindam Basu, Robert Legenstein, Thomas Limbacher, Panayiota Poirazi, Xundong Wu
-  slides:
+  slides: https://202.120.13.81:10003/d/f/q28jidhmcqfelWSfcU9XuLQB2M5ujPMx
 
 - presenter: Bo Wang
   date: 2022-08-19 10:00:00
