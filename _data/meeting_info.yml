@@ -1,3 +1,19 @@
+- presenter: Kai Chen
+  date: 2022-09-13 10:00:00
+  paper: Emergent reliability in sensory cortical coding and inter-area communication
+  url: https://www.nature.com/articles/s41586-022-04724-y#peer-review
+  pdf: https://www.nature.com/articles/s41586-022-04724-y.pdf
+  authors: Sadegh Ebrahimi, Jérôme Lecoq, Oleg Rumyantsev, Tugce Tasci, Yanping Zhang, Cristina Irimia, Jane Li, Surya Ganguli, Mark J. Schnitzer
+  slides:
+
+- presenter: Zhenyuan Jin
+  date: 2022-09-09 10:00:00
+  paper: TBD
+  url:
+  pdf:
+  authors:
+  slides:
+
 - presenter: Xuexing Du
   date: 2022-08-26 10:00:00
   paper: "OpenWorm: overview and recent advances in integrative biological simulation of Caenorhabditis elegans"
@@ -47,19 +63,11 @@
   slides:
 
 - presenter: Mingzhang Wang
-  date: 2022-09-02 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
-  slides:
-
-- presenter: Rong Chen
   date: 2022-08-30 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: Excitatory-inhibitory balance modulates the formation and dynamics of neuronal assemblies in cortical networks
+  url: https://www.science.org/doi/full/10.1126/sciadv.abg8411
+  pdf: https://www.science.org/doi/reader/10.1126/sciadv.abg8411
+  authors: Sadra Sadeh, Claudia Clopath
   slides:
 
 - presenter: Chongming Liu
