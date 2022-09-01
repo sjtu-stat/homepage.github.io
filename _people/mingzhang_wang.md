@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Mingzhang Wang
+title: Mingzhang Wang (王明璋)
 description: 
 img: assets/img/mingzhang_wang.jpg
 redirect:

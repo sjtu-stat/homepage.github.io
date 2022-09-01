@@ -472,7 +472,7 @@ footer.sticky-bottom {
 
   .card {
     // TODO: set media size dependent fontsize.
-    max-width: 375px;
+    max-width: 750px;
     border: 1px solid #cccccc;
     border-radius: 10px;
     background: var(--global-bg-color);
@@ -487,13 +487,16 @@ footer.sticky-bottom {
     }
     .card-img {
       width: 100%;
+      min-width: 100px;
+      max-width: 180px;
       background: white;
       padding-bottom: 0px;
       border-radius: 10px 0px 0px 10px;
     }
     .card-title {
       font-weight: normal;
-      margin-top: 15px;
+      margin-top: 10px;
+      margin-bottom: -8px;
     }
     .card-item {
       width: auto;
@@ -527,7 +530,7 @@ footer.sticky-bottom {
   }
 
   figure {
-    margin-bottom: 0px;
+    margin: 0px;
   }
 
   h3.category {

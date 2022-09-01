@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Boran Yang
+title: Boran Yang (杨博然)
 description: 
 img: assets/img/boran_yang.jpg
 redirect:

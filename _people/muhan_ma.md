@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Muhan Ma
+title: Muhan Ma (马慕晗)
 description: Graduate of Imperial College London
 img: assets/img/muhan_ma.jpg
 redirect:

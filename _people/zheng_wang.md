@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Zheng Wang
+title: Zheng Wang (王铮)
 description: 
 img: assets/img/zheng_wang.jpg
 redirect:

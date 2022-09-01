@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Douglas Zhou
+title: Douglas Zhou (周栋焯)
 description: 
 img: assets/img/douglas_zhou.jpg
 redirect: https://ins.sjtu.edu.cn/people/zdz/

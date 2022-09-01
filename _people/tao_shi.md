@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Tao Shi
+title: Tao Shi (石焘)
 description: 2019-2022 master's student
 img: assets/img/tao_shi.jpg
 redirect:

@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Jingyang Ma
+title: Jingyang Ma (马靖洋)
 description: 
 img: assets/img/jingyang_ma.jpg
 redirect:

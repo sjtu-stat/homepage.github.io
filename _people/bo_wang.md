@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Bo Wang
+title: Bo Wang (王博)
 description: 
 img: assets/img/bo_wang.png
 redirect:

@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Zhongqi Tian
+title: Zhongqi Tian (田中棋)
 description: 2014-2020 PhD
 img: assets/img/zhongqi_tian.jpg
 redirect:

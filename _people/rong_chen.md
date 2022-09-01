@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Rong Chen
+title: Rong Chen (陈荣)
 description: 
 img: assets/img/rong_chen.jpg
 redirect:

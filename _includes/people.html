@@ -1,9 +1,9 @@
 
     <!-- _includes/people.html -->
-    <div class="col-md-6 ml-mr-auto mb-3 mt-3">
+    <div class="col-md-6 ml-mr-auto mt-3 mb-3">
       <div class="card">
         <div class="row no-gutters">
-          <div class="col-4">
+          <div class="col-4 col-sm-3 col-md-4">
           {% if people.img %}
             {%- include figure.html class="card-img"
               path=people.img -%}
@@ -13,8 +13,8 @@
               path="assets/img/default-avatar.png" -%}
           {% endif %}
           </div>
-          <div class="col-7 ml-4">
-            <h4 class="card-title">{{people.title}}</h4>
+          <div class="col-7 col-sm-8 col-md-7 ml-4">
+            <h5 class="card-title">{{people.title}}</h5>
             <hr>
 
             <div class="row">

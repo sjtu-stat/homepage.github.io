@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: Kai Chen
+title: Kai Chen (陈开)
 description:
 img: assets/img/kai_chen.jpg
 redirect: https://neoneuron.github.io
