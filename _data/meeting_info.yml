@@ -8,10 +8,10 @@
 
 - presenter: Zhenyuan Jin
   date: 2022-09-09 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: Microscopic theory of intrinsic timescales in spiking neural networks
+  url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077
+  pdf: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.043077
+  authors: Alexander van Meegen, Sacha J. van Albada
   slides:
 
 - presenter: Xuexing Du
