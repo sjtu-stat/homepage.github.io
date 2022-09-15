@@ -1,10 +1,18 @@
+- presenter: Chongming Liu
+  date: 2022-09-16 13:00:00
+  paper: Neural network models of decision making
+  url:
+  pdf:
+  authors: 
+  slides: 
+
 - presenter: Kai Chen
   date: 2022-09-14 14:00:00
   paper: Emergent reliability in sensory cortical coding and inter-area communication
   url: https://www.nature.com/articles/s41586-022-04724-y#peer-review
   pdf: https://www.nature.com/articles/s41586-022-04724-y.pdf
   authors: Sadegh Ebrahimi, Jérôme Lecoq, Oleg Rumyantsev, Tugce Tasci, Yanping Zhang, Cristina Irimia, Jane Li, Surya Ganguli, Mark J. Schnitzer
-  slides:
+  slides: https://202.120.13.81:10003/d/f/qLLBkNoUGOY0YQpueyREdyycCUJmYOaa
 
 - presenter: Zhenyuan Jin
   date: 2022-09-09 10:00:00
