@@ -1,3 +1,35 @@
+- presenter: Ziling Wang
+  date: 2022-09-30 13:00:00
+  paper: Sequential and efficient neural-population coding of complex task information
+  url: https://www.sciencedirect.com/science/article/pii/S0896627321008357
+  pdf: https://www.sciencedirect.com/science/article/pii/S0896627321008357/pdfft?md5=80e5092d41f5fefcff8681a86927ca08&pid=1-s2.0-S0896627321008357-main.pdf
+  authors: Sue AnnKoay, Adam S.Charles, Stephan Y.Thiberge, Carlos D.Brody, David W.Tank
+  slides: 
+
+- presenter: Jingcheng Shi
+  date: 2022-09-28 14:00:00
+  paper: Meta-learning synaptic plasticity and memory addressing for continual familiarity detection
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0896627321009478
+  pdf: https://www.sciencedirect.com/science/article/pii/S0896627321009478/pdfft?md5=cf8c6411157dc9f81bb513cb60646d08&pid=1-s2.0-S0896627321009478-main.pdf
+  authors: Danil Tyulmankov, Guangyu Robert Yang, L.F. Abbott
+  slides: 
+
+- presenter: Zheng Wang
+  date: 2022-09-23 13:00:00
+  paper: TBD
+  url:
+  pdf:
+  authors: 
+  slides: 
+
+- presenter: Boran Yang
+  date: 2022-09-21 14:00:00
+  paper: Computational Modeling of EEG and fMRI Paradigms Indicates a Consistent Loss of Pyramidal Cell Synaptic Gain in Schizophrenia
+  url: https://discovery.ucl.ac.uk/id/eprint/10133217/
+  pdf: https://discovery.ucl.ac.uk/id/eprint/10133217/1/1-s2.0-S0006322321014992-main.pdf
+  authors: Rick A Adams, Dimitris Pinotsis, Konstantinos Tsirlis, Leonhardt Unruh, Aashna Mahajan, Ana Montero Horas, Laura Convertino, Ann Summerfelt, Hemalatha Sampath, Xiaoming Michael Du, Peter Kochunov, Jie Lisa Ji, Grega Repovs, John D Murray, Karl J Friston, L Elliot Hong, Alan Anticevic 
+  slides: 
+
 - presenter: Chongming Liu
   date: 2022-09-16 13:00:00
   paper: Neural network models of decision making
