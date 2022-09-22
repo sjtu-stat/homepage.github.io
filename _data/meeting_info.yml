@@ -16,10 +16,10 @@
 
 - presenter: Zheng Wang
   date: 2022-09-23 13:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors: 
+  paper: Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics
+  url: https://www.sciencedirect.com/science/article/pii/S0893608020300708
+  pdf: https://www.sciencedirect.com/science/article/pii/S0893608020300708/pdfft?md5=2eabc7debccdc52862cbbd8627386e18&pid=1-s2.0-S0893608020300708-main.pdf
+  authors: P.R. Vlachas, J. Pathak, B.R. Hunt, T.P. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos
   slides: 
 
 - presenter: Boran Yang
