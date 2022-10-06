@@ -1,3 +1,35 @@
+- presenter: Mingzhang Wang
+  date: 2022-10-19 14:00:00
+  paper: TBD
+  url:
+  pdf:
+  authors: 
+  slides: 
+
+- presenter: Xuexing Du
+  date: 2022-10-14 13:00:00
+  paper: TBD
+  url:
+  pdf:
+  authors: 
+  slides: 
+
+- presenter: Jingyang Ma
+  date: 2022-10-12 14:00:00
+  paper: TBD
+  url:
+  pdf:
+  authors: 
+  slides: 
+
+- presenter: Bo Wang
+  date: 2022-10-07 10:30:00
+  paper: The techniques of Noise Injection for neural network training
+  url:
+  pdf:
+  authors: 
+  slides: 
+
 - presenter: Zhenyuan Jin
   date: 2022-10-04 10:00:00
   paper: Phase diagram and condensation in ANNs
@@ -7,7 +39,7 @@
   slides: 
 
 - presenter: Ziling Wang
-  date: 2022-10-07 13:00:00
+  date: 2022-10-21 13:00:00
   paper: Sequential and efficient neural-population coding of complex task information
   url: https://www.sciencedirect.com/science/article/pii/S0896627321008357
   pdf: https://www.sciencedirect.com/science/article/pii/S0896627321008357/pdfft?md5=80e5092d41f5fefcff8681a86927ca08&pid=1-s2.0-S0896627321008357-main.pdf
