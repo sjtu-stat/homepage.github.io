@@ -7,11 +7,13 @@
   slides: 
 
 - presenter: Xuexing Du
-  date: 2022-10-14 13:00:00
-  paper: TBD
+  date: 2022-10-14 10:00:00
+  paper: How do neurons increase their robustness to noise perturbations
   url:
-  pdf:
-  authors: 
+  pdf: 
+    - https://www.jneurosci.org/content/jneuro/21/14/5229.full.pdf
+    - https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627314X00103/1-s2.0-S089662731400292X/mainext.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEBwMbQC6E7UlrrhOqhSML3ysE2jP03qRl5EFAWS9gF9AiBssweHRn8V8RxhP4V9fa7xkquDJbn%2BOqS0qOw1X7VpFyrVBAib%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIM%2Frd1irv%2BRMdDehRCKqkEo5cGeTycm2XXmhjDbGqwy5jP4jNdAHt4vIr5eFXLG9CGNjenT92918mOGBkQNH21fP%2B%2B9EFzBhSICOQAJbTlkYzfTEexoalp0Vl7qH8I3Sbq1Uiv5WEXeYdsj5CPtfd2QyAPMuhP%2BOTIC6VhjFB4JNIfOovWksq%2F2E1FN7VyHGjMOw2EnahKOD9ljDCTL24Fa9%2BKA7jJYOHnAfD8ive1bsSECW0QXG4WLTJvisVbZQ7Ful%2BwBDj8PwR2qXeO8T4JlQShuNR8HuX7nPZL5UHP6dEsmEqncRreW5wEK37BC%2BQWVHPBqwS%2BGuhJ%2B4A7%2BR4Bj2475HBshKiXYz4JpLbr77jpe1zZxK8VO%2B5DPu%2BHoQw%2B53TUgWxBWxt56TOB3bE4z%2FIqCQZaOq8wMnZKROcHlARLNm9b6JTDVnOCJl%2BhWblzyM%2FHnlKH70cICuFRRQ05BROnMoqFgR0iEg%2FtDLVu1Y%2BpAE3TEy6wh3Y81StEjvHPQh5jeMYex6LYBHF0YRMg1Qw9HCh93pqmsEA4nSEO%2Bvn7v8zBRI11sYYOHSB5Q1frla1ajYcHz0ZpQzWcJ8TtaxLX1GvnhxTCfoNiaRfuZPLNJ6kBQX%2Bs1G2PENP5ueAzeC1Y9zaensAiB2aX9K19kTt%2BH295HYA%2Fxa0BGV6pBS1n3McTof3A9UD5iba710UrW0%2FLwEvMMrIs3QZDQ%2BOxJDM4EXGpDmkamgMSiAXIQfz2mRFsqxmXODDa152aBjqqATNDf1k7JEMHovT4zkxF0K9oZUrWgVhQTYTWC8RTMpmUZQuQbp%2FqDPeRmdholUYa4%2BN%2FFslTELl8jezAhPRcn06aDXypf46VeuVEjuEvXnwjcRM8%2FzVoPnrCotH0UIzIMEHz%2BhjkweDcnXPZxzRaZqKlyXQm4AZVuKyYZ408N0%2FEOLiixavLhwoUQ1OTmulTkBKJYASO8iOBymOnEbtmgYYbIoGfyWLSRAGC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221013T024248Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY75VBKK57%2F20221013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b1e4cae64ea5bfe853b79da2b4f5ab9e46d29a852b78ba2b57430a37b46843fd&hash=7536c0539596fb9fcf8a87cc6db40d8bdcce5b21a35c5e72ee0d4ba767133581&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S089662731400292X&tid=spdf-62427d49-dff0-4c2d-97b7-46680f1bdf86&sid=c52dbf864ce7774ca298b5a837f687e9be6dgxrqb&type=client&ua=57515854075d575c&rr=7594b9598eafbbc2
+  authors: Multiple papers
   slides: 
 
 - presenter: Kai Chen
@@ -27,23 +29,23 @@
   paper: The techniques of Noise Injection for neural network training
   url:
   pdf:
-  authors: 
+  authors: Multiple papers 
   slides: 
 
 - presenter: Zhenyuan Jin
   date: 2022-10-04 10:00:00
-  paper: Phase diagram and condensation in ANNs
-  url:
-  pdf:
-  authors: 
+  paper: Phase Diagram for Two-layer ReLU Neural Networks at Infinite-width Limit
+  url: https://www.jmlr.org/papers/v22/20-1123.html
+  pdf: https://www.jmlr.org/papers/volume22/20-1123/20-1123.pdf
+  authors: Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang
   slides: https://202.120.13.81:10003/d/f/qdwA9YegQKlWTB2lfMm2oJnCm9Z13iNu
 
 - presenter: Ziling Wang
-  date: 2022-10-12 14:00:00
+  date: 2022-10-12 10:00:00
   paper: Sequential and efficient neural-population coding of complex task information
   url: https://www.sciencedirect.com/science/article/pii/S0896627321008357
   pdf: https://www.sciencedirect.com/science/article/pii/S0896627321008357/pdfft?md5=80e5092d41f5fefcff8681a86927ca08&pid=1-s2.0-S0896627321008357-main.pdf
-  authors: Sue AnnKoay, Adam S.Charles, Stephan Y.Thiberge, Carlos D.Brody, David W.Tank
+  authors: Sue Ann Koay, Adam S.Charles, Stephan Y.Thiberge, Carlos D.Brody, David W.Tank
   slides: 
 
 - presenter: Jingcheng Shi
