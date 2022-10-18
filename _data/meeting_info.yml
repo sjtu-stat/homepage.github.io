@@ -1,9 +1,9 @@
 - presenter: Mingzhang Wang
-  date: 2022-10-19 14:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors: 
+  date: 2022-10-19 10:00:00
+  paper: Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model
+  url: https://www.jneurosci.org/content/42/6/1035.abstract
+  pdf: https://www.jneurosci.org/content/jneuro/42/6/1035.full.pdf
+  authors: Norman H. Lam, Thiago Borduqui, Jaime Hallak, Antonio Roque, Alan Anticevic, John H. Krystal, Xiao-Jing Wang, John D. Murray 
   slides: 
 
 - presenter: Xuexing Du
@@ -17,11 +17,11 @@
   slides: 
 
 - presenter: Kai Chen
-  date: 2022-10-21 13:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors: 
+  date: 2022-10-21 10:00:00
+  paper: Gradient-based learning drives robust representations in recurrent neural networks by balancing compression and expansion
+  url: https://www.nature.com/articles/s42256-022-00498-0
+  pdf: https://www.biorxiv.org/content/10.1101/564476v2.full.pdf
+  authors: Matthew Farrell, Stefano Recanatesi, Timothy Moore, Guillaume Lajoie, Eric Shea-Brown
   slides: 
 
 - presenter: Bo Wang
