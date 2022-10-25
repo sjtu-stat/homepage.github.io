@@ -1,3 +1,19 @@
+- presenter: Jingyang Ma
+  date: 2022-10-28 13:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Chongming Liu
+  date: 2022-10-26 14:00:00
+  paper: Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data
+  url: https://proceedings.neurips.cc/paper/2018/hash/54fe976ba170c19ebae453679b362263-Abstract.html
+  pdf: https://proceedings.neurips.cc/paper/2018/file/54fe976ba170c19ebae453679b362263-Paper.pdf
+  authors: Yuanzhi Li, Yingyu Liang
+  slides: 
+
 - presenter: Mingzhang Wang
   date: 2022-10-19 10:00:00
   paper: Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model
@@ -22,7 +38,7 @@
   url: https://www.nature.com/articles/s42256-022-00498-0
   pdf: https://www.google.com/url?q=https%3A%2F%2Frdcu.be%2FcQbnb&sa=D&sntz=1&usg=AOvVaw1-Ne1I6wXNLzGCEWn1YFK-
   authors: Matthew Farrell, Stefano Recanatesi, Timothy Moore, Guillaume Lajoie, Eric Shea-Brown
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/qs567oVJEzoqKKxssTTQIcu52Pubi29d
 
 - presenter: Bo Wang
   date: 2022-10-07 10:30:00
