@@ -16,10 +16,10 @@
 
 - presenter: Boran Yang
   date: 2022-11-04 13:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Functional network organization of the human brain
+  url: https://www.sciencedirect.com/user/identity/landing?code=__ODJh6Q06ZOZI4M_L3N5DTgMmXfxWcmhPxV40ec&state=retryCounter%3D0%26csrfToken%3D350070b9-71ba-48e4-97f1-35d9b266c346%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0896627311007926%253Fvia%25253Dihub%26prompt%3Dnone%26cid%3Darp-12e6a767-ccd5-4ca9-af78-27c47da4f30e
+  pdf: https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627311X00235/1-s2.0-S0896627311007926/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCXGsgKkLRq4OimePC3XaX730dnw2WWL7nornurhSsPAwIhAMkFxGwnL4J%2BEcidkjb6xANdgJDrywSGtXiRoRyUCtDuKtUECLj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgzbpJU8IUN8bN%2FoZKoqqQROi8%2F0jqpeh7Hufd7QOsE%2BQ4LdyXZS2BRA6OPlrdgkZX2qwUcXXBbaB%2BphLWpycm06BPLamGmebOqJB%2BPzkdAF8byqyHFeiQh%2BpHq8BkliIOtoDPdP4K2lu6yKMhH2IcZymDkl0SSp5KayRedIi1BFyyw9EByu4sEG4Y8yXrtS9ISJTRf0GalEfGbbgHaZA78Syv%2FOB7ABUNbUYW1s1MBHDxumJ%2BybpaKX7wDt3YD1cckXqOOApG98G42wLzmeuZFtiBuKHUSvzi0Hfdj7SHvAN49n7P4xsrE5N7DCTAFDnmP4YQRbpm5i8pat79lq9sRCgfPnvxK4jp8HGFwjU0IIEdWICMDWXnvpbbzZQU%2BVqE4aO%2FvUK6bqhf%2FwEeQaYprNOqOOturW5f4FFODNsvaJ6tksBGLOE10zep9jHEh2IcnF1uWZeMsajqtm3kHcqoiRNP1Wi8JhVUGN%2FR%2FqE%2Bj1ioz589IXKuPKjmuaIXbDsJuAwouQA3QUtQviCk%2FKXpDMkRhStJI%2FfLKVuCjtCY%2F3KWrOfFFq1wNzh8D6%2BGrPZi0TfKw6jv7EjfCaGwS%2FRx7OdyZdnQbERh94kWnQv5mObsRHhItcAyJ9YsSpwF70IwKiVj1Je2Gw2Lvih7nXKgtioAP2hlqKHRXQz8L1ePqN7RXqPfoVQZyUuKbj6SbSSHal2Z3h5NwucybdPKYMxHXbrwucHeif%2FOzL00RyYH%2Bqy3%2FIcqniMyURMMK%2BjZsGOqgB5CfZgarl3ZfMycho%2FWSL1uCKTSjU6BW2o7uUhObWI12S%2FxV%2BDcRRtDB3p7omdgTT%2FcEp859FYoX5ISUYxauHzi4ZVhBQhRk%2FiZpE8%2FsdnDhnPryzRrSMGcjjqA19hqVC4Q8F04GMcIMIWhom7l%2F2xwPVq%2FlS0%2BqjnCixcu4Wpwkb496NrfbtI9LXTV6Y26j7BS9VP%2BGTDPrgOztj7ubF0BPYZxA%2BFMJp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221103T070001Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY74D5QWUP%2F20221103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=07ddd3f80234e92c147f8b2c60da1862aaf4a62837dd297919cdc38c3c286421&hash=cc7d96f97054c003c685d12cc0ac26543e33b92fddd40b60ad819f30e19a48f8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627311007926&tid=spdf-dfdb0cc2-eaf4-4c5e-8553-97b1ce3d6120&sid=e68d8a2d547c0543ba5afe81463aadb41a05gxrqa&type=client&ua=5752555356065257&rr=76433b027f87e68a
+  authors: Jonathan D.Power, Alexander L.Cohen, Steven M.Nelson, Gagan S.Wig, Kelly AnneBarnes, Jessica A.Church, Alecia C.Vogel, Timothy O.Laumann, Fran M.Miezin, Bradley L.Schlaggar, Steven E.Petersen
   slides: 
 
 - presenter: Jingyang Ma
