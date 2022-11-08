@@ -1,9 +1,9 @@
-- presenter: Zhenyuan Jin
+- presenter: Jingcheng Shi
   date: 2022-11-11 13:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Flexible multitask computation in recurrent networks utilizes shared dynamical motifs
+  url: https://www.biorxiv.org/content/10.1101/2022.08.15.503870v1
+  pdf: https://www.biorxiv.org/content/10.1101/2022.08.15.503870v1.full.pdf
+  authors: Laura Driscoll, Krishna Shenoy, David Sussillo
   slides: 
 
 - presenter: Zheng Wang
@@ -11,7 +11,7 @@
   paper: Task representations in neural networks trained to perform many cognitive tasks
   url: https://www.nature.com/articles/s41593-018-0310-2
   pdf: https://www.nature.com/articles/s41593-018-0310-2.pdf
-  authors: Guangyu Robert Yang, Madhura R. Joglekar, H. Francis Song, William T. Newsome & Xiao-Jing Wang 
+  authors: Guangyu Robert Yang, Madhura R. Joglekar, H. Francis Song, William T. Newsome, Xiao-Jing Wang 
   slides: 
 
 - presenter: Boran Yang
