@@ -8,10 +8,10 @@
 
 - presenter: Zheng Wang
   date: 2022-11-09 14:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Task representations in neural networks trained to perform many cognitive tasks
+  url: https://www.nature.com/articles/s41593-018-0310-2
+  pdf: https://www.nature.com/articles/s41593-018-0310-2.pdf
+  authors: Guangyu Robert Yang, Madhura R. Joglekar, H. Francis Song, William T. Newsome & Xiao-Jing Wang 
   slides: 
 
 - presenter: Boran Yang
