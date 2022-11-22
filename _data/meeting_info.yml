@@ -1,3 +1,19 @@
+- presenter: Xuexing Du
+  date: 2022-11-25 10:00:00
+  paper: 
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Ziling Wang
+  date: 2022-11-23 14:00:00
+  paper: Cell-type-specific population dynamics of diverse reward computations
+  url: https://www.cell.com/cell/fulltext/S0092-8674(22)01113-8
+  pdf: https://www.cell.com/cell/pdf/S0092-8674(22)01113-8.pdf
+  authors: Emily L. Sylwestrak, YoungJu Jo, Sam Vesuna, Xiao Wang, Blake Holcomb, Rebecca H. Tien, Doo Kyung Kim, Lief Fenno, Charu Ramakrishnan, William E. Allen, Ritchie Chen, Krishna V. Shenoy, David Sussillo and Karl Deisseroth
+  slides: 
+  
 - presenter: Bo Wang
   date: 2022-11-18 10:00:00
   paper: Predictive learning as a network mechanism for extracting low-dimensional latent space representations
