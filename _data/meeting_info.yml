@@ -1,3 +1,20 @@
+- presenter: Kai Chen
+  date: 2022-12-2 10:00:00
+  paper: 
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+
+- presenter: Mingzhang Wang
+  date: 2022-11-30 14:00:00
+  paper: Closed-form continuous-time neural networks
+  url: https://www.nature.com/articles/s42256-022-00556-7
+  pdf: https://www.nature.com/articles/s42256-022-00556-7.pdf
+  authors: Ramin Hasani, Mathias Lechner, Alexander Amini, Aaron Ray, Max Tschaikowski, Gerald TeschlLucas Liebenwein & Daniela Rus
+  slides: 
+  
 - presenter: Xuexing Du
   date: 2022-11-25 10:00:00
   paper: Rapid detection and recognition of whole brain activity in a freely behaving Caenorhabditis elegans
