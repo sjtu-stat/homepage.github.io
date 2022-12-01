@@ -1,9 +1,9 @@
 - presenter: Kai Chen
-  date: 2022-12-2 10:00:00
-  paper: 
-  url: 
-  pdf: 
-  authors: 
+  date: 2022-12-03 10:00:00
+  paper: Extracting computational mechanisms from neural data using low-rank RNNs
+  url: https://openreview.net/forum?id=M12autRxeeS
+  pdf: https://openreview.net/pdf?id=M12autRxeeS
+  authors: Adrian Valente, Jonathan W. Pillow, Srdjan Ostojic 
   slides: 
 
 
