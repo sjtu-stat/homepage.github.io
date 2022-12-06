@@ -1,3 +1,19 @@
+- presenter: Jingyang Ma
+  date: 2022-12-09 10:00:00
+  paper: The Forward-Forward Algorithm: Some Preliminary Investigations
+  url: https://www.cs.toronto.edu/~hinton/FFA13.pdf
+  pdf: https://www.cs.toronto.edu/~hinton/FFA13.pdf
+  authors: Geoffrey Hinton
+  slides:
+
+- presenter: Chongming Liu
+  date: 2022-12-07 15:00:00
+  paper: Gradient Descent Maximizes the Margin of Homogeneous Neural Networks
+  url: https://arxiv.org/abs/1906.05890
+  pdf: https://arxiv.org/pdf/1906.05890.pdf
+  authors: Kaifeng Lyu, Jian Li
+  slides: 
+
 - presenter: Kai Chen
   date: 2022-12-03 10:00:00
   paper: Extracting computational mechanisms from neural data using low-rank RNNs
