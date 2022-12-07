@@ -1,6 +1,6 @@
 - presenter: Jingyang Ma
   date: 2022-12-09 10:00:00
-  paper: The Forward-Forward Algorithm: Some Preliminary Investigations
+  paper: "The Forward-Forward Algorithm: Some Preliminary Investigations"
   url: https://www.cs.toronto.edu/~hinton/FFA13.pdf
   pdf: https://www.cs.toronto.edu/~hinton/FFA13.pdf
   authors: Geoffrey Hinton
