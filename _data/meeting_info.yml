@@ -4,7 +4,7 @@
   url: https://www.cs.toronto.edu/~hinton/FFA13.pdf
   pdf: https://www.cs.toronto.edu/~hinton/FFA13.pdf
   authors: Geoffrey Hinton
-  slides:
+  slides: https://202.120.13.81:10003/d/f/rTXvWvLwgqC6Cu3ewV74xuT7NOnWDGWT
 
 - presenter: Chongming Liu
   date: 2022-12-07 15:00:00
@@ -20,7 +20,7 @@
   url: https://openreview.net/forum?id=M12autRxeeS
   pdf: https://openreview.net/pdf?id=M12autRxeeS
   authors: Adrian Valente, Jonathan W. Pillow, Srdjan Ostojic 
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/rTOiPXgeaF2jmpRXcPsZUfpZLwvVlXwi
 
 
 - presenter: Mingzhang Wang
