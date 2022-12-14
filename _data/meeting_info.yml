@@ -1,3 +1,19 @@
+- presenter: Boran Yang
+  date: 2022-12-16 10:00:00
+  paper: 
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Zhenyuan Jin
+  date: 2022-12-14 14:00:00
+  paper: Neural Dynamics
+  url: https://neuronaldynamics.epfl.ch
+  pdf: https://neuronaldynamics.epfl.ch/online/index.html
+  authors: 
+  slides: 
+  
 - presenter: Jingyang Ma
   date: 2022-12-09 10:00:00
   paper: "The Forward-Forward Algorithm: Some Preliminary Investigations"
