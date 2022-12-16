@@ -5,12 +5,13 @@
         <div class="row no-gutters">
           <div class="col-4 col-sm-3 col-md-4">
           {% if people.img %}
+            {% assign image = people.img | split: '/' | last | prepend: "assets/img/people/" %}
             {%- include figure.html class="card-img"
-              path=people.img -%}
+              path=image -%}
           {% else %}
             {%- include figure.html 
               class="card-img"
-              path="assets/img/default-avatar.png" -%}
+              path="assets/img/people/default-avatar.png" -%}
           {% endif %}
           </div>
           <div class="col-7 col-sm-8 col-md-7 ml-4">

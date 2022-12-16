@@ -5,8 +5,9 @@ layout: page
         <div class="post">
 
           {% if page.img %}
+            {% assign image = page.img | split: '/' | last | prepend: "assets/img/people/" %}
             <div class="profile float-left">
-                {% include figure.html path=page.img class="img-fluid z-dept-1 rounded-circle" alt=page.profile.image -%}
+                {% include figure.html path=image class="img-fluid z-dept-1 rounded-circle" alt=page.profile.image -%}
             </div>
           {% endif %}
 
