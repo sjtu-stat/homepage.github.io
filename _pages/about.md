@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: lab_logo_profile.png
+  image: lab_logo_profile_wide.png
   image_cicular: false # crops the image to make it circular
 #   address: >
 #     <p>No.6 Science Building</p>
