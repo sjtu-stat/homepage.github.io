@@ -1,3 +1,11 @@
+- presenter: Kai Chen
+  date: 2023-01-06 10:00:00
+  paper: Flexible selection of task-relevant features through population gating
+  url: https://www.biorxiv.org/content/10.1101/2022.07.21.500962v2
+  pdf: https://www.biorxiv.org/content/10.1101/2022.07.21.500962v2.full.pdf+html
+  authors: Joao Barbosa, Remi Proville, Chris C. Rodgers, Michael R. DeWeese, Srdjan Ostojic, Yves Boubenec
+  slides: 
+
 - presenter: Xuexing Du
   date: 2022-12-30 10:00:00
   paper: Energy-efficient network activity from disparate circuit parameters
