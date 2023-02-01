@@ -1,3 +1,19 @@
+- presenter: Zhenyuan Jin
+  date: 2022-2-3 10:00:00
+  paper: 
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+  
+- presenter: Shouwei Luo
+  date: 2022-1-31 10:00:00
+  paper: Neural Dynamics Part 2
+  url: https://neuronaldynamics.epfl.ch
+  pdf: https://neuronaldynamics.epfl.ch/online/index.html
+  authors: 
+  slides: 
+  
 - presenter: Kai Chen
   date: 2023-01-06 10:00:00
   paper: Flexible selection of task-relevant features through population gating
