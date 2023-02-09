@@ -1,3 +1,11 @@
+- presenter: Chongming Liu
+  date: 2022-02-09 10:00:00
+  paper: Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?
+  url: https://www.biorxiv.org/content/10.1101/407007v1
+  pdf: https://www.biorxiv.org/content/10.1101/407007v1.full.pdf
+  authors: Martin Schrimpf, Jonas Kubilius, Ha Hong, Najib J. Majaj, Rishi Rajalingham, Elias B. Issa, Kohitij Kar, Pouya Bashivan, Jonathan Prescott-Roy, Kailyn Schmidt, Daniel L. K. Yamins, James J. DiCarlo
+  slides: 
+  
 - presenter: Zhenyuan Jin
   date: 2022-02-03 14:00:00
   paper: Multimodal analysis demonstrating the shaping of functional gradients in the marmoset brain
