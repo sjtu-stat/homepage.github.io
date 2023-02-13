@@ -1,3 +1,19 @@
+- presenter: Jingyang Ma
+  date: 2022-02-16 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Zheng Wang
+  date: 2022-02-13 10:00:00
+  paper: "Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning"
+  url: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
+  pdf: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
+  authors: Charles H. Martin, Michael W. Mahoney
+  slides: 
+
 - presenter: Chongming Liu
   date: 2022-02-09 10:00:00
   paper: "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?"
@@ -11,7 +27,7 @@
   paper: Multimodal analysis demonstrating the shaping of functional gradients in the marmoset brain
   url: https://www.nature.com/articles/s41467-022-34371-w
   pdf: https://www.nature.com/articles/s41467-022-34371-w.pdf
-  authors: Chuanjun Tong, Cirong Liu, Kaiwei Zhang, Binshi Bo, Ying Xia, Hao Yang, Yanqiu Feng & Zhifeng Liang
+  authors: Chuanjun Tong, Cirong Liu, Kaiwei Zhang, Binshi Bo, Ying Xia, Hao Yang, Yanqiu Feng, Zhifeng Liang
   slides: 
   
 - presenter: Shouwei Luo
