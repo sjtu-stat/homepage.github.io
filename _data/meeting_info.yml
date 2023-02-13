@@ -1,6 +1,6 @@
 - presenter: Chongming Liu
   date: 2022-02-09 10:00:00
-  paper: Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?
+  paper: "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?"
   url: https://www.biorxiv.org/content/10.1101/407007v1
   pdf: https://www.biorxiv.org/content/10.1101/407007v1.full.pdf
   authors: Martin Schrimpf, Jonas Kubilius, Ha Hong, Najib J. Majaj, Rishi Rajalingham, Elias B. Issa, Kohitij Kar, Pouya Bashivan, Jonathan Prescott-Roy, Kailyn Schmidt, Daniel L. K. Yamins, James J. DiCarlo
@@ -16,7 +16,7 @@
   
 - presenter: Shouwei Luo
   date: 2022-01-31 10:00:00
-  paper: Neural Dynamics Part 2
+  paper: "Neural Dynamics Part 2"
   url: https://neuronaldynamics.epfl.ch
   pdf: https://neuronaldynamics.epfl.ch/online/index.html
   authors: 
