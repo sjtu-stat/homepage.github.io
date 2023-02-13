@@ -1,5 +1,5 @@
 - presenter: Jingyang Ma
-  date: 2022-02-16 10:00:00
+  date: 2023-02-16 10:00:00
   paper: TBD
   url: 
   pdf: 
@@ -7,7 +7,7 @@
   slides: 
 
 - presenter: Zheng Wang
-  date: 2022-02-13 10:00:00
+  date: 2023-02-13 10:00:00
   paper: "Implicit Self-Regularization in Deep Neural Networks: Evidence from Random Matrix Theory and Implications for Learning"
   url: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
   pdf: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
@@ -15,7 +15,7 @@
   slides: 
 
 - presenter: Chongming Liu
-  date: 2022-02-09 10:00:00
+  date: 2023-02-09 10:00:00
   paper: "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?"
   url: https://www.biorxiv.org/content/10.1101/407007v1
   pdf: https://www.biorxiv.org/content/10.1101/407007v1.full.pdf
@@ -23,7 +23,7 @@
   slides: 
   
 - presenter: Zhenyuan Jin
-  date: 2022-02-03 14:00:00
+  date: 2023-02-03 14:00:00
   paper: Multimodal analysis demonstrating the shaping of functional gradients in the marmoset brain
   url: https://www.nature.com/articles/s41467-022-34371-w
   pdf: https://www.nature.com/articles/s41467-022-34371-w.pdf
@@ -31,7 +31,7 @@
   slides: 
   
 - presenter: Shouwei Luo
-  date: 2022-01-31 10:00:00
+  date: 2023-01-31 10:00:00
   paper: "Neural Dynamics Part 2"
   url: https://neuronaldynamics.epfl.ch
   pdf: https://neuronaldynamics.epfl.ch/online/index.html
