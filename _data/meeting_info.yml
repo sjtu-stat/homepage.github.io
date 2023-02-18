@@ -39,7 +39,7 @@
     - https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627314X00103/1-s2.0-S0896627314002566/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELj%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCwj%2B1PvUjJu9oGJW%2B44M3W437MkOCXuY%2Ft3XzVlcrA9gIhAKY%2FhMllMzXwXZgYw96bx0nYRKyxBZjSzkp8QUyCLZxxKswECFEQBRoMMDU5MDAzNTQ2ODY1IgzJ%2B8f7z2tS8LDxyB8qqQQKZQGk038WFLij1s4PhvpXCGaZEIvlT26F2%2B1ggNCuA4ds1kUHmVAZj03KCy12F%2F6YbkcIiEtxf7u4qErTjxrIejElz5bwZFz40Thxvkfi68YAPC5msNknRYkMyWZw7d7Yl4seYUG0ZEKJFLJUdY81NyWJ2xzUWWtTVrl0VTWBJv%2Brn%2F95HC6THhlA83NRtNc%2F96yPCNKrSis8n5iBLHo43kb78VDqu6SI1mOg%2FV9C9DZIwDZhEOi5wHQIsYmm1ctdF9LAYkaWrxIp0nyXumS%2FbJJXJPeaKaclwLJZ43YuYzw1QXlV1K6YiFEZpXaWRwQvHkAcNqboM4B3yM2XXF1oXkv34pYt5unnqXMpKlCXhHwVEQ%2BFJ2kKxqJXneOwPsC4Qobet1ShsGef1XlplxIUbif8fzaE%2FAcnXbDxFqEPWd78SeJxUhH7DfJyYV8LHW5yObaGblkzBHAqo%2BT5aoUacYzY73gvyxRYgIcZp2NKC6irqcTiPxnn3YXgNkbAmbJBy7ryYxbpvZheyq%2FrAgYJx8OwC%2Bq244uSU2XeS5lFjyYIte%2F5xqvLaBlWcg5tO7yYalr2plT8UFKiVc9p4u6AZp2IXewxpH%2B2hKqoMdO8hC2ma2NtE%2FrmKNN53%2FNbgA3I4J%2FzPI0ShD5iMXfdXbwC0nE8t8BF2%2BTmFd2iijcEhG2MpgFx%2FK%2FZPICV24yx4vtxMs7bE%2FkzFihb2fjsoXYgD7EHILyxfBvPMJOBu58GOqgBXyH5esgyG%2B2H1jR1SiV%2B0hzB9f25Z6Id9U72xzgCu8fKOF0%2F5mpc1QCthlCoJaegEPkTHr%2FheCVK15o4c8jHBiyIYzSWlIg6dET79lMHqdhiacxGWs5VHprhrdCWWTT2nQ7UkRQlM5csghDdaaNWU%2FZFRlBF9dbUauesOWU5Sp1K6h76VcnB%2B58WtKN5gpeiLG57N%2FlM%2Fh70vK%2FKWclIupQRlMVEP6Rw&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230217T012051Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4V7N3H3L%2F20230217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5fccffa3209356883390df92e34a59b51fdfa510bda52ba4d63fb145d8434d05&hash=200597c4c2ec0d4701575e258f88b3b35bf3453c5fa62c132921f53631c2b6fd&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627314002566&tid=spdf-b79c7095-bc52-4d33-96d8-cc771a13c45d&sid=a27a3e862dcea44fbe08e9289963971bd07fgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1908565f0500005c0702&rr=79aab3ef7b8d0506&cc=cn
     - https://www.biorxiv.org/content/10.1101/2022.01.28.478132v2.full.pdf 
   authors: Multiple papers 
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/sQMLA9r2jV316FjzrgQ2gzzTA7dBItfN
 
 - presenter: Zheng Wang
   date: 2023-02-13 10:00:00
@@ -47,7 +47,7 @@
   url: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
   pdf: https://www.jmlr.org/papers/volume22/20-410/20-410.pdf
   authors: Charles H. Martin, Michael W. Mahoney
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/sMXOSz1aZojcVzCGPmmluy1V8uXsswlg
 
 - presenter: Chongming Liu
   date: 2023-02-09 10:00:00
@@ -55,7 +55,7 @@
   url: https://www.biorxiv.org/content/10.1101/407007v1
   pdf: https://www.biorxiv.org/content/10.1101/407007v1.full.pdf
   authors: Martin Schrimpf, Jonas Kubilius, Ha Hong, Najib J. Majaj, Rishi Rajalingham, Elias B. Issa, Kohitij Kar, Pouya Bashivan, Jonathan Prescott-Roy, Kailyn Schmidt, Daniel L. K. Yamins, James J. DiCarlo
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/sJ2DPU3KYaRsxEDT19F1hkHN4MSZG8Ol
   
 - presenter: Zhenyuan Jin
   date: 2023-02-03 14:00:00
@@ -63,7 +63,7 @@
   url: https://www.nature.com/articles/s41467-022-34371-w
   pdf: https://www.nature.com/articles/s41467-022-34371-w.pdf
   authors: Chuanjun Tong, Cirong Liu, Kaiwei Zhang, Binshi Bo, Ying Xia, Hao Yang, Yanqiu Feng, Zhifeng Liang
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/sFxAXLtdcCd6ZwDayU9ZNDTY92nTvCzn
   
 - presenter: Shouwei Luo
   date: 2023-01-31 10:00:00
@@ -79,7 +79,7 @@
   url: https://www.biorxiv.org/content/10.1101/2022.07.21.500962v2
   pdf: https://www.biorxiv.org/content/10.1101/2022.07.21.500962v2.full.pdf+html
   authors: Joao Barbosa, Remi Proville, Chris C. Rodgers, Michael R. DeWeese, Srdjan Ostojic, Yves Boubenec
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/rqlwxS83KQ3n2IawoOwf106GvjpWc4TO
 
 - presenter: Xuexing Du
   date: 2022-12-30 10:00:00
@@ -87,7 +87,7 @@
   url: https://www.pnas.org/doi/10.1073/pnas.2207632119
   pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2207632119
   authors: Michael Deistler, Jakob H. Macke, Pedro J. Gonçalves
-  slides: 
+  slides: https://202.120.13.81:10003/d/f/rqmjupoImEu3yF6Wl6HAJgrcXIHGZbXJ
 
 - presenter: Licheng Zou
   date: 2022-12-16 10:00:00
