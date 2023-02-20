@@ -24,10 +24,10 @@
 
 - presenter: Bo Wang
   date: 2023-02-20 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Brain-inspired chaotic backpropagation for MLP
+  url: https://www.sciencedirect.com/user/identity/landing?code=ZpdnleZ2hpRl_2mQIFvgvIVnIuYxuyuh_qo1szeN&state=retryCounter%3D0%26csrfToken%3D6d05d72a-e5b8-4080-9811-7ef543873b44%26idpPolicy%3Durn%253Acom%253Aelsevier%253Aidp%253Apolicy%253Aproduct%253Ainst_assoc%26returnUrl%3D%252Fscience%252Farticle%252Fpii%252FS0893608022003045%253Fvia%25253Dihub%26prompt%3Dnone%26cid%3Darp-b767f925-81bc-49ae-a690-db66e1411dd2
+  pdf: https://pdf.sciencedirectassets.com/271125/1-s2.0-S0893608022X00099/1-s2.0-S0893608022003045/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAIaCXVzLWVhc3QtMSJGMEQCIEDYBwZEwh5lEojrrLljHEWNzhbsraW2g69%2BuclcymZdAiAWTWCmAqunNH61%2FknUaVKHLNLoUKnx4RdmU1u3ySk0byrVBAib%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMIcvbgqtsasqBiUs%2BKqkEFugWQGlCdH%2FUgXFeCc8trAMBGg2swjtpeOyFj69gOPp5AbW29I0El7ELR0yzJvfGBVuw%2FOXLKLvusZwNGRwejkpMhUrBaJJmEuMvUJp8DCFnyDs8qhJrxfVj6RdRxrZaa78%2BCskfjAFmmWob40PamEEGPPq6lFxQEqz2LiyqFWMTrH6owe44ikKhZ4ghH4YcdURwHHqNEFIMKGne%2BnAyHDPoQQyRf0Dgx01KO7V8Myj02cgip7GL70O0LY5O8hLQMyIQShlRYtw5PDE9wjiVmWn3I10gCDWOG7gmPxCyAeT89v1OH4NCpL%2BYsHJOrNXYr1anVeQ2tI5IaZ03YF9FT244LKKfMt4jixuUDdWw7YVUjdacZF7C6lTjiyrhxQz9UDTONnx%2B9wC4MlOO%2BhETbnafxszgozNRdr4jEyayGBtF9XW%2B2KM93qEnd91ScLA77MKmndw4OrfJuACZU%2F%2B2SOT%2BU%2F490z2EgsTi7ydHbGxM0gD%2BtiyGwxHT1IlI4uI3MlNl7xs6FuV6eHb3JKScSQx%2BHWaeRpwf%2BS6vrGJ4hA7DNVOZiR%2B38Fbkx9lEIqSm2ZU8%2BzAAelv8SFIXvcZFovVrrFjw23DYusMZ10My3g%2FhuAgsyFD0jrt9ReOUISN2WllUpqnijSU2tySNEYIupLihDR5koPbo3%2BXF%2BdxSRhbvIeb7r8Kca9u6W%2BcjOanlknjHWdWS7Nq5rcLBj1RiY5bdTRlyRwguVzCZncufBjqqAfgoZ2cp5jBrhllJBevOfgZe0Q38DaWH2KpaSOcIYdaYt%2Be4gKky5NvLlcVKYVlkKdzK3aYKrbCTb4dJ6qomHDxqr2xq1ct6bBUodBLKK6BsyjQORuf87YYKIsuy3pRBIH4EbDBUOiovq8BvWUWLffmo%2Bg9jKS%2Bq%2BykNZ5sEStnstIDibfweBRWDb1CLgJ%2BlBpAVl%2B93xedI84lBmBLEluvIWFN9R8khM9eg&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230220T015915Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUNWRLYAO%2F20230220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=dd5665ece2a7aadac9ebdaee50d05544b97661ba296751fd5036d0ffe66797f7&hash=27ae601545b5098ce799a1e1b8fb043c72af81775fac3290c7ff1a66e2ad18ee&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0893608022003045&tid=spdf-f5e53b82-b2c6-4c7d-b6a3-9fc47975f051&sid=10d70ed73317154c81793222b40496fa3546gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1908555f00520156575103&rr=79c3a453db6c1109&cc=cn
+  authors: Peng Tao, Jie Cheng, Luonan Chen
   slides: 
 
 - presenter: Jingyang Ma
