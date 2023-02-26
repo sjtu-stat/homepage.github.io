@@ -1,5 +1,4 @@
-
- - presenter: Rong Chen
+- presenter: Rong Chen
   date: 2023-03-02 10:00:00
   paper: TBD
   url: 
@@ -9,7 +8,7 @@
 
 - presenter: Ziling Wang
   date: 2023-02-27 10:30:00
-  paper: 'Prediction-error neurons in circuits with multiple neuron types: Formation, refinement, and functional implications'
+  paper: "Prediction-error neurons in circuits with multiple neuron types: Formation, refinement, and functional implications"
   url: https://www.pnas.org/doi/10.1073/pnas.2115699119
   pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.2115699119
   authors: Loreen Hertäg and Claudia Clopath
