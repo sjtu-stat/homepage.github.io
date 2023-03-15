@@ -1,9 +1,25 @@
-- presenter: Yeqiang Liao
-  date: 2023-03-13 10:00:00
+- presenter: Xuexing Du
+  date: 2023-03-23 10:00:00
   paper: TBD
   url: 
-  pdf: 
-  authors: 
+  pdf:
+  authors:
+  slides: 
+
+- presenter: Mingzhang Wang
+  date: 2023-03-20 10:00:00
+  paper: TBD
+  url: 
+  pdf:
+  authors:
+  slides: 
+
+- presenter: Yeqiang Liao
+  date: 2023-03-16 10:00:00
+  paper: Fast algorithms for simulation of neuronal dynamics based on the bilinear dendritic integration rule
+  url: https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0017/0005/a007/
+  pdf: https://www.intlpress.com/site/pub/files/_fulltext/journals/cms/2019/0017/0005/CMS-2019-0017-0005-a007.pdf
+  authors: Wei P. Dai, Songting Li and Douglas Zhou
   slides: 
   
 - presenter: Licheng Zou
