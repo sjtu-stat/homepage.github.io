@@ -1,17 +1,25 @@
+- presenter: Kai Chen
+  date: 2023-03-27 10:00:00
+  paper: 
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+  
 - presenter: Xuexing Du
   date: 2023-03-23 10:00:00
-  paper: TBD
-  url: 
-  pdf:
-  authors:
+  paper: "CRBA: A Competitive Rate-Based Algorithm Based on Competitive Spiking Neural Networks"
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8100331/
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8100331/pdf/fncom-15-627567.pdf
+  authors: Paolo G. Cachi, Sebastián Ventura and Krzysztof J. Cios
   slides: 
 
 - presenter: Mingzhang Wang
   date: 2023-03-20 10:00:00
-  paper: TBD
-  url: 
-  pdf:
-  authors:
+  paper: "Functional Implications of Dale's Law in Balanced Neuronal Network Dynamics and Decision Making"
+  url: https://www.frontiersin.org/articles/10.3389/fnins.2022.801847/full
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8919085/pdf/fnins-16-801847.pdf
+  authors: Victor J. Barranca, Asha Bhuiyan, Max Sundgren and Fangzhou Xing
   slides: 
 
 - presenter: Yeqiang Liao
