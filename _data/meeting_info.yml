@@ -1,3 +1,27 @@
+- presenter: Shouwei Luo
+  date: 2023-04-10 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Yixiao Feng
+  date: 2023-04-06 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Boran Yang
+  date: 2023-04-03 10:00:00
+  paper: Multitask representations in the human cortex transform along a sensory-to-motor hierarchy
+  url: https://www.nature.com/articles/s41593-022-01224-0
+  pdf: https://www.nature.com/articles/s41593-022-01224-0.pdf
+  authors: Takuya Ito & John D. Murray
+  slides:
+
 - presenter: Kai Chen
   date: 2023-03-29 10:00:00
   paper: A new theoretical framework jointly explains behavioral and neural variability across subjects performing flexible decision-making
