@@ -8,10 +8,10 @@
 
 - presenter: Yixiao Feng
   date: 2023-04-06 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Scaling of sensory information in large neural populations shows signatures of information-limiting correlations
+  url: https://www.nature.com/articles/s41467-020-20722-y
+  pdf: https://www.nature.com/articles/s41467-020-20722-y.pdf
+  authors: Mohammad Mehdi Kafashan, Anna W. Jaffe , Selmaan N. Chettih, Ramon Nogueira, Iñigo Arandia-Romero , Christopher D. Harvey, Rubén Moreno-Bote & Jan Drugowitsch
   slides:
 
 - presenter: Boran Yang
