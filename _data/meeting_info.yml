@@ -1,9 +1,25 @@
-- presenter: Shouwei Luo
-  date: 2023-04-10 10:00:00
+- presenter: Chongming Liu
+  date: 2023-04-17 10:00:00
   paper: TBD
   url: 
   pdf: 
   authors: 
+  slides:
+
+- presenter: Zhenyuan Jin
+  date: 2023-04-13 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Shouwei Luo
+  date: 2023-04-10 10:00:00
+  paper: Dendritic Self-Organizing Maps for Continual Learning
+  url: https://arxiv.org/abs/2110.13611
+  pdf: https://arxiv.org/pdf/2110.13611.pdf
+  authors: Kosmas Pinitas, Spyridon Chavlis and Panayiota Poirazi
   slides:
 
 - presenter: Yixiao Feng
