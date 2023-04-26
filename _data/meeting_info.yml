@@ -1,17 +1,33 @@
-- presenter: Xiaoyu Chen
-  date: 2023-04-24 10:00:00
+- presenter: Licheng Zou
+  date: 2023-05-04 10:00:00
   paper: TBD
   url: 
   pdf: 
   authors: 
   slides:
 
-- presenter: Zheng Wang
-  date: 2023-04-20 10:00:00
+- presenter: Ziling Wang
+  date: 2023-05-01 10:00:00
   paper: TBD
   url: 
   pdf: 
   authors: 
+  slides:
+  
+- presenter: Xiaoyu Chen
+  date: 2023-04-24 10:00:00
+  paper: Modelling and prediction of the dynamic responses of large-scale brain networks during direct electrical stimulation
+  url: https://www.nature.com/articles/s41551-020-00666-w
+  pdf: https://www.nature.com/articles/s41551-020-00666-w.pdf
+  authors: Yuxiao Yang, Shaoyu Qiao, Omid G. Sani, J. Isaac Sedillo, Breonna Ferrentino, Bijan Pesaran & Maryam M. Shanechi
+  slides:
+
+- presenter: Zheng Wang
+  date: 2023-04-20 10:00:00
+  paper: Reservoir Computing Beyond Memory-Nonlinearity Trade off
+  url: https://www.nature.com/articles/s41598-017-10257-6
+  pdf: https://www.nature.com/articles/s41598-017-10257-6.pdf
+  authors: Masanobu Inubushi & Kazuyuki Yoshimura 
   slides:
 
 - presenter: Chongming Liu
