@@ -1,6 +1,30 @@
-- presenter: Jingyang Ma
-  date: 2023-05-11 10:00:00
+- presenter: Maokai Zhan
+  date: 2023-05-29 10:00:00
   paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Yeqiang Liao
+  date: 2023-05-25 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+  
+- presenter: Jingyang Ma
+  date: 2023-05-22 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+  
+- presenter: Jiayue Yu
+  date: 2023-05-18 10:00:00
+  paper: Undergraduate Project : Using recurrent neural network to train the delay match sample task
   url: 
   pdf: 
   authors: 
@@ -8,10 +32,10 @@
   
 - presenter: Licheng Zou
   date: 2023-05-08 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Network mechanisms underlying representational drift in area CA1 of hippocampus
+  url: https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.11.10.515946.full.pdf
+  pdf: https://www.biorxiv.org/content/biorxiv/early/2022/12/27/2022.11.10.515946.full.pdf
+  authors: Federico Devalle and Alex Roxin
   slides:
 
 - presenter: Ziling Wang
