@@ -1,25 +1,27 @@
-- presenter: Maokai Zhan
-  date: 2023-05-29 10:00:00
-  paper: TBD
+- presenter: Xiu Xin
+  date: 2023-06-26 10:00:00
+  paper: A model-free approach which was developed to detect temporal change-point in time series
   url: 
   pdf: 
-  authors: 
+    - https://watermark.silverchair.com/nwab228.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtwwggLYBgkqhkiG9w0BBwagggLJMIICxQIBADCCAr4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMdXznYli4qlTryUbZAgEQgIICjyOB8JEoFHC4kvoguhcTVdj1AM9TVjWns5th9CFJjizAsujjbjTdzAYjDtyoUkzNFLGak4OwpssD1Xo9GHjbrzXePg3ooSr6umJUOq_65HzpPCSezuwg5oqFZTfhqFXiGL-z3-5ZgEHdQCxFXCE5MAhLUv8gdfdzYclHQ8-BSTgRH8sOnDz4IPg5XJAlkIbcq8e0lVxKTYLG_W13dEyaLWdQeZ-r72gGFirwRFiNaryB6ZlNziPgJV4NOGGnZpUs1DgY9mBG-T0_csHdRHUAtb92pc9-ZYKTvHxYCwx-9kzR2xeoqxl9Cg019FP43STtD_ws0R6M-14-dG-h6khb2-BlgW2UlDm9eR1buuwZKguZjQAW27zlsW0aGlPcNUwSBBkuPCeTxLNvdPe59detd68BpJm9Urb7M6N54EefREZQxM7SU6QkAH76EPH6cVVJ2BQZB4tEbzvVCNHF_aM8I0hVZnXlpRqfvw3Ch_7EKW50S4PqjX6Hx-nfkY7UWn1Jy8mZS1Wt205H1hEFAwY_dJIZokay7Xlv-pSRKFoewK1rmFxLEQmLUBrndRj5m8pFPB0Pc3OqXOyJYpKINpDe9JOi1zE8KFDf51OlZGxp2dNEo5vLrg1GWCPeM4XEfwrhI-uSUI984X-clhnA1yl77os_2pQySaJjK3LMxCy2ac_ZqutDRn6FaKRPq3Lguc7PCmkXgb5GsI_rX18fJwTi2ptQ6jAS6c87LoNJGFgSOkyN_nh0Wi-S5drEQKi62mXxAUs6l7cvMk6Dxal5KQz29oDv789vSJlmMlHSC4LujH6QkLNtz9VmxfKvEXXNRt_3k0aEgpdcaCAKbw8dvgpH4klC2Ep9ZhveUQvzjU_5Suo
+    - https://www.pnas.org/doi/epdf/10.1073/pnas.1802987115
+  authors: Multiple papers
   slides:
 
-- presenter: Yeqiang Liao
-  date: 2023-05-25 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+- presenter: Mingzhang Wang
+  date: 2023-06-15 10:00:00
+  paper: Rich-club connectivity, diverse population coupling, and dynamical activity patterns emerging from local cortical circuits
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006902
+  pdf: https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006902&type=printable
+  authors: Yifan Gu, Yang Qi, Pulin Gong
   slides:
   
 - presenter: Jingyang Ma
-  date: 2023-05-22 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  date: 2023-06-05 10:00:00
+  paper: A brain-inspired computational model for spatio-temporal information processing
+  url: https://www.sciencedirect.com/science/article/pii/S0893608021002112?via%3Dihub
+  pdf: https://pdf.sciencedirectassets.com/271125/1-s2.0-S0893608021X00081/1-s2.0-S0893608021002112/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIC1vE%2Ba8%2BhIDfAmf05IHF2YxjiVk84TKyuVosVzOh1PVAiEAu5ZOwn%2Bp9KnSleI8Ln%2F2x6u64FIqPn62E02nWMAr9FIqsgUIPBAFGgwwNTkwMDM1NDY4NjUiDN7GRI2kBCmlRWM3GiqPBa%2FxIuESmoR%2B4zMa%2B%2B50poL0qzpi2LO7IaWh9x97wbd9TzegnzIXRtMEdBdDuHFO9y9WWbRRw3fdB3zFv0SOvlNBgG6prodm6LeRNaiFyw8JCem7%2BcV8g6pOZGIK%2BV%2B9JdjKOZ8B7HEzn5q7wHLah3%2Brsc2gD5EQIeUzlEkc8e%2F01fTXqJOw39dxmqqGruo1EGdW8DmcAJkNa7aJw6mefl%2BECQg%2FbKSF4rmq1CDIdeXLAgrvZeY%2FOePxdoDMsfNCSJTyhB%2BF9VAB%2BOsnq9XV5GOPklW%2FMKSbFG%2BMXnP6Fp%2BKjaJd%2F9fgkeGutK8cY%2BakhWICY8a%2FjFV8UkoD83msaOS0ey0VFgaqRaJaC8F6MpbDNcWYXigxrF%2Fw3NmkSIu%2BbisdpKsTZvIT2e122%2BHC%2BlEoL6Gib65QVyQawhvs52tIVMgTLyxFAlzGWKXkWEdRRkJtSudUbdDSbLu%2BqP4MPcQ09ggHaa298XGSJhy2MUlyFG7t3l0St9gQNp0eUsLRhMJQwNHZKfN%2BFn7mfg4X6U7qhIBBxvHpMFBGxO7TYX9HMZimxGl1VQoNsAdWBzE6v%2Bz7aOMdzz0PUjjGPZ9%2FsVXnTeED6fZYzr9dXYd10Lz%2FspXKVHhdlDXGxDynPe7f1DbQIDmglUgRzXt%2Fvdryz99YJA7wJZsGXL95wu1AE1ZRUEbbG2sT8PHqhgo8YEFVJsOebL7%2B4eylPo%2FDruyeoVoZ3Q7LJkVC4lhNAFXaEHevyFkhtx5SkGzrE8iNeragr9n17a6lvlbMUcGq%2Bkmu99ARNa4HwRNam%2BVCxdHMgvSH0vKiDaEToGsZq77whae7OFOD%2F1nMjuRQVl95Q6NHSIwWCXpbRR9VvfLuvk1BzQswyvvjpAY6sQEiAcszQJHUes%2BJAG2HDJsFj06aIAUzhFtHOdlwWLgwqsoPucTZPzm%2FBO8yC46GYqLyBC%2F6Tfqk6DKfTDXXaGhfYvNyy%2BM4y2GNs%2B9OnZACnDqQxX2rkbjD%2B7BW67MoRJS5W3Tc5kpiJnNwo2qtpdJgF40dUj6Dp1LHFFpyQW1RZxmhUY1nSs3bvvQhmNBmM7jDg1n2nAmqSkWQSB7goBRZBfkLw%2BD14bkIWY4LezJVhL8%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230626T032852Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYS6D2FPUF%2F20230626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8bfadc97feb9ce31c0f7b9cb30f9cc7ca76a39dc069c26bb6236e26c2b26a37b&hash=b0f266dc4b2a5c5dcde8914876772c833fc3683319f6ae3fc76cc6fd2360b1e6&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0893608021002112&tid=spdf-8be2943c-4712-47a2-ad33-05495f8f161a&sid=d93933e87004654f4b48319-1570a1ee92d0gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=070b55050756500003&rr=7dd25cd868491079&cc=cn
+  authors: Xiaohan Lin, Xiaolong Zou, Zilong Ji, Tiejun Huang, Si Wu, Yuanyuan Mi
   slides:
   
 - presenter: Jiayue Yu
