@@ -1,3 +1,43 @@
+- presenter: Chongming Liu
+  date: 2023-07-20 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Zhenyuan Jin
+  date: 2023-07-17 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
+- presenter: Zhankai Mao
+  date: 2023-07-13 10:00:00
+  paper: Noise improves the association between effects of local stimulation and structural degree of brain networks
+  url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010866
+  pdf: https://www.biorxiv.org/content/biorxiv/early/2023/01/12/2023.01.10.523529.full.pdf
+  authors: Yi Zheng, Shaoting Tang, Hongwei Zheng, Xin Wang, Longzhao Liu, Yaqian Yang, Yi Zhen, Zhiming Zheng
+  slides:
+
+- presenter: Xuexing Du
+  date: 2023-07-10 13:30:00
+  paper: Flexible and efficient simulation-based inference for models of decision-making
+  url: https://elifesciences.org/articles/77220
+  pdf: https://elifesciences.org/articles/77220.pdf
+  authors: Jan Boelts, Jan-Matthis Lueckmann, Richard Gao, Jakob H Macke
+  slides:
+
+- presenter: Yixiao Feng
+  date: 2023-07-05 10:00:00
+  paper: "Mapping functional brain networks from the structural connectome: Relating the series expansion and rife mode approaches"
+  url: https://www.sciencedirect.com/science/article/pii/S1053811920302925?via%3Dihub
+  pdf: https://pdf.sciencedirectassets.com/272508/1-s2.0-S1053811920X00085/1-s2.0-S1053811920302925/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEGoaCXVzLWVhc3QtMSJIMEYCIQDeEWQaMrMgIQv0GI0LCBDdITgqPeuQTASXcNchz0EALgIhAPLoJl1LnEWv9ab48Oyjs7Oo94qewiDC11uHXRuQ1i66KrwFCOP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgxYjPnhyNTw5Gh%2BfIIqkAW6HAdx6qiZ%2FgFZrgxUoBfOIxInC9ULaLReCkA7Kx6kJ8Z60GMJP9vknGxYIFgSCmNsFwbvWnMn%2Bnkq3WVN170qM12Gl7mtcmwJzH9W6sRYwzct%2FifjfQKmKfSMSVtx4%2FnndaELuQdqWNiRn%2BSiI1GwCIJ3u9wplCbFgdJJmNsU1RWKfxsKWmEJEtRTemgogd9upClICZWWKCGwpyAGh9aDyrncVB%2BvQTzN7zL6ORStAK19hsQhUvgO4vjPjXhJZXpRlrYy%2Fp0i4QmiaYTaRF01X2wmf7EXC7DYdxf9%2BSUUcHdAbCmczooGrn3BeBEjZ%2Fd5iplCfLOecjGT1XJYMEBimkclWVYfyLTgVxzDn40reLzEgZgiDQp%2B5plzA7JJqx1zmhbD%2FcTXdHa3XU6Ax6JegSZ1sG4McC7nn5qjVuVYgRZUHzPxAcxP%2BI2WnvwXunWhysw8G918Mahp%2FDU4fv6ljED0nJAK9SDeWqZbe1XwyJ9zCytu3trJfmWuvI6MFC8NKkhL504O5UjNMe96565wLz8baNqWZv1qtl2n2Hj5gK3YBIHT5eCUS%2FmYf9XLCGo4X4xzzkMLy9Dovj8XAdY6tiu5%2FWxWSHVk88H8Xz2qus0nhlyTvXFf54C6iCHebqyVbmwPRArHMFne0jUf3VD0IooABRFuBm1ULvt9vSgHbau51RoO%2BlG4yzUhN3NS9flCSYVSVhDNFQrYLbTKoV%2B2nPf4%2FTlLzv8YOAXnerV6AOLFXJL%2BO099cgQYJ9XgVanUQtx419RC%2Fhr8skYbAQt6g1Onogdmy845%2FeCfONGimgG8hHHx4t0OIVlDvnEZKFcbhfcaGG5H2xeEW5hBV6zRKZgH3uARHn6f4pd82tAuGzCrrL2lBjqwAbmfyAFnVrT4%2Buf2AoHzOMGgojNxdg2434CFkjMcUOe%2BpTsaFDoNDPwJu4BmWFQEhexgHzSYwJGoVRvOJkTMYK0nIpC1dNCB7CUaCbj42ecOjrnzaaH1UARlSae8MBiBhacE3kZveGXSgKPUrzVLRNH0CE4AflEL3z%2B%2BGU0qbh%2FYFUTBw%2FdTuiTi8qkpHZx0a5N78qWG8PqWiqIcJJ6XszEMI68BPr86crtcA%2B9OrKDF&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230713T020359Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYTS6VJTNV%2F20230713%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b77aa775daf07341263044a3ed7fcf7d1579bd9a232830f6cf051c6a73cd48ac&hash=9dfe007439857f3fa1b7788b4db2353733e14acc093343be23a123f932ed06ca&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1053811920302925&tid=spdf-77086348-e482-44a6-baed-e713bd062177&sid=82af9d7f32a7d94f6e2854070f3e20271b1dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=070b55045600035002&rr=7e5df3e12861099c&cc=cn
+  authors: Prejaas Tewariea, Bastian Prasseb, Jil M. Meierc, Fernando A.N. Santosd, Linda Douwd, Menno M. Schoonheim, Cornelis J. Stam, Piet Van Mieghem, Arjan Hillebrand
+  slides:
+  
 - presenter: Xiu Xin
   date: 2023-06-26 10:00:00
   paper: A model-free approach which was developed to detect temporal change-point in time series
