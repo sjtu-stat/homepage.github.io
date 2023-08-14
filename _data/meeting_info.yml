@@ -1,9 +1,17 @@
-- presenter: Chongming Liu
-  date: 2023-07-20 10:00:00
+- presenter: Kai Chen
+  date: 2023-08-17 10:00:00
   paper: TBD
   url: 
   pdf: 
   authors: 
+  slides:
+
+- presenter: Chongming Liu
+  date: 2023-08-14 10:00:00
+  paper: Low-dimensional models of neural population activity in sensory cortical circuits
+  url: https://pillowlab.princeton.edu/pubs/Archer_NIPS2014.pdf
+  pdf: https://pillowlab.princeton.edu/pubs/Archer_NIPS2014.pdf
+  authors: Evan Archer, Urs Koster, Jonathan Pillow, Jakob H. Macke
   slides:
 
 - presenter: Zhenyuan Jin
