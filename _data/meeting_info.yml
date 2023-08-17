@@ -1,9 +1,9 @@
 - presenter: Xiaoyu Chen
-  date: 2023-08-21 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  date: 2023-08-17 10:00:00
+  paper: "Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain"
+  url: https://www.sciencedirect.com/science/article/pii/S0014488622001364
+  pdf: https://pdf.sciencedirectassets.com/272536/1-s2.0-S0014488622X00083/1-s2.0-S0014488622001364/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCkSkO0rsuZNIW4zgXLICMwqlyVjFdP348qk0jOzmA9ewIhAP4WFUUDSEi4E%2F07vmMaxcKPBknuj91BH2wiO%2B10cVisKrMFCGwQBRoMMDU5MDAzNTQ2ODY1IgwAc8USknqEZ21NOLkqkAUkS90QOzn00p6e0%2B8DnozaUciwJT8KUN172sdxerIDbX%2FnXnRKmydQahlIIzCEBPao09ZVOwM8SRtvsrZmGL5MlDn9dwB9NOkKDH23n0%2F073LXg5OygtZtvR9zeI6NpNUYVrYlFX2s9NrTPUYtaHP6sAkgZQ%2F3dGcu6XQu5sTdilsL82p%2Fih8z2tKcFXH2dNrbP27QNVBi9XaJWDosM5jt8gxnfzriNsJq7IgYOEb4IL6AfX%2FIDapCCvzaCOvS%2BIqUNg9TB65c0loeL6PtWRTMZvp7bmfbleiU3UYWsh6gVTPVU4lbP2MB3m0pLTaWwp0X3hQ%2FE2o%2F1bXovdjfiLjsAET6g5mRDUin1aBT5kFDcAOFV9CmQS42Voxj26WO3p1YA7cNr25zYxOtGRStn428Ln5GU3ON82%2FAvTSaodmZMk6jHh0%2FZYHUd9FVzR4D0KZ3Id0roGOQTfts1L7vXFfc76N5Rql7wHLROCpqhglJE6a7k8r%2BGzQ29BW403QeBMOBh60BmMxxgoKb84L5JxLxPS8gykkZkvm71yYbwz9hFOSPoANY%2FfXL%2B%2FK0FJ0TE4JonsB2vRum5xiD2S9RwQYFrM8%2Fqojfm7i6W8LsDXxa53eq%2BfyWR4O1Qqoy4v5lytcD8KY3I12W%2F1pUUfyJ93DpEjqHIBRG8Sjc1QY0qlluphYxx9gIR3l073BPWsIWBmdtliMtHpyCKdOSvjqQvj7HQDc%2BJUm5LlgcP09bMLuZGmdgwUaT4Cc02QIWZ3u4GesVOa9iLYNsJ6J93BOvOw3OIhuiUr%2BK3othKCtvhf9rZGWW3Ds3lUKxg0NkbZssCNRrX%2B5T37X5BA3gbISVrzxDnCL9jD2gFq%2FiruAVMm%2FHezDAifamBjqwAc73ew3KHmGYAnSLIgHzANIFIAiCKKFAkXavuaY79SCRJCDIa9sr4%2FrECfD1DKis50sG5TSsl14z1YFM8jVp4g7un69uNbNCBKw6C6h0cZT3LGFhH9BhfKkzAAIbzv99KJSouUS3cCgeeu1a%2FBvttAoPSXEkc1SPEwTz3C597%2FwUWNqZe7cbrGLhxJUFFFJmyXg7dtRd4oQCy9637vffH2M82EjDcYt0ZCfu62dSjG2y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230817T031703Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYVQDPY32U%2F20230817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=ddb0a0bc504333d3eb93a25d6f7067144a59749b051ccd4a1f1f205436f5a491&hash=55b7e2d5f5f537ff789cd6a55d7116fce2d68d6cd3f86f45b7f931f8e66890fb&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0014488622001364&tid=spdf-d62378fc-7bb1-4147-a3ed-abe6187365ed&sid=78b14b6c567b534d185906374242cb0ade65gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=050f57095907065d5458&rr=7f7ec308ff482119&cc=cn
+  authors: Jil M. Meier, Dionysios Perdikis, Andr ́e Blickensdo ̈rfer, Leon Stefanovski, Qin Liu, Oliver Maith, Helge Ü. Dinkelbach, Javier Baladron, Fred H. Hamker, Petra Ritter
   slides:
 
 - presenter: Chongming Liu
