@@ -5,6 +5,6 @@ description:
 img: assets/img/maokai_zhan.png
 redirect:
 year: 2022
-category: Undergraduates
+category: PhD Students
 email: orion008@sjtu.edu.cn
 ---
