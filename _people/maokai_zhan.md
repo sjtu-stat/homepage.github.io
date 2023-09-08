@@ -2,7 +2,7 @@
 layout: profile
 title: Maikai Zhan (占毛恺)
 description: 
-img: assets/img/maokai_zhan.png
+img: assets/img/maokai_zhan.jpg
 redirect:
 year: 2022
 category: PhD Students

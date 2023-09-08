@@ -2,7 +2,7 @@
 layout: profile
 title: Chongming Liu (刘翀鸣)
 description: 
-img: assets/img/chongming_liu.png
+img: assets/img/chongming_liu.jpg
 redirect:
 year: 2020
 category: PhD Students
