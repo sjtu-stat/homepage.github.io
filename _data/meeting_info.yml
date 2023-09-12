@@ -1,3 +1,35 @@
+- presenter: Shouwei Luo
+  date: 2023-09-13 10:00:00
+  paper: Structured cerebellar connectivity supports resilient pattern separation
+  url: https://www.nature.com/articles/s41586-022-05471-w
+  pdf: https://www.nature.com/articles/s41586-022-05471-w.pdf
+  authors: Tri M. Nguyen, Logan A. Thomas, Jeff L. Rhoades, Ilaria Ricchi, Xintong Cindy Yuan, Arlo Sheridan, David G. C. Hildebrand, Jan Funke, Wade G. Regehr, Wei-Chung Allen Lee 
+  slides:
+
+- presenter: Boran Yang
+  date: 2023-09-12 14:00:00
+  paper: Geometric constraints on human brain function
+  url: https://www.nature.com/articles/s41586-023-06098-1
+  pdf: https://www.nature.com/articles/s41586-023-06098-1.pdf
+  authors: James C. Pang, Kevin M. Aquino, Marianne Oldehinkel, Peter A. Robinson, Ben D. Fulcher, Michael Breakspear, Alex Fornito
+  slides:
+
+- presenter: Ziling Wang
+  date: 2023-09-07 10:00:00
+  paper: Learnable latent embeddings for joint behavioral and neural analysis
+  url: https://www.nature.com/articles/s41586-023-06031-6
+  pdf: https://www.nature.com/articles/s41586-023-06031-6.pdf
+  authors: Steffen Schneider, Jin Hwa Lee, Mackenzie Weygandt Mathis
+  slides:
+
+- presenter: Zheng Wang
+  date: 2023-09-04 11:30:00
+  paper: "[project report] The role of recurrent matrix in reservoir computing"
+  url: 
+  pdf: 
+  authors: 
+  slides:
+
 - presenter: Xiaoyu Chen
   date: 2023-08-17 10:00:00
   paper: "Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain"
