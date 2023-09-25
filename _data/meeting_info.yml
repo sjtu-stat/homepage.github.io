@@ -10,8 +10,9 @@
   date: 2023-09-25 10:00:00
   paper: Some papers about the training algorithm of spiking neural networks
   url: 
-  pdf: - https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.pdf
-       - https://arxiv.org/pdf/2011.05280.pdf
+  pdf: 
+    - https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.pdf
+    - https://arxiv.org/pdf/2011.05280.pdf
   authors: Multiple papers
   slides:
 
