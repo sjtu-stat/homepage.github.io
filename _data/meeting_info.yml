@@ -1,9 +1,18 @@
 - presenter: Jiayue Yu
-  date: 2023-09-25 10:00:00
+  date: 2023-09-27 10:00:00
   paper: Neuronal wiring diagram of an adult brain
   url: https://www.biorxiv.org/content/10.1101/2023.06.27.546656v2.abstract
   pdf: https://www.biorxiv.org/content/10.1101/2023.06.27.546656v2.full.pdf
   authors: Sven Dorkenwald, Arie Matsliah, Amy R Sterling, Philipp Schlegel, Szi-chieh Yu, Claire E. McKellar, Albert Lin, Marta Costa, Katharina Eichler, Yijie Yin, Will Silversmith, Casey Schneider-Mizell, Chris S. Jordan, Derrick Brittain, Akhilesh Halageri, Kai Kuehner, Oluwaseun Ogedengbe, Ryan Morey, Jay Gager, Krzysztof Kruk, Eric Perlman, Runzhe Yang, David Deutsch, Doug Bland, Marissa Sorek, Ran Lu, Thomas Macrina, Kisuk Lee, J. Alexander Bae, Shang Mu, Barak Nehoran, Eric Mitchell, Sergiy Popovych, Jingpeng Wu, Zhen Jia, Manuel Castro, Nico Kemnitz, Dodam Ih, Alexander Shakeel Bates, Nils Eckstein, Jan Funke, Forrest Collman, Davi D. Bock, Gregory S.X.E. Jefferis, H. Sebastian Seung, Mala Murthy, the FlyWire Consortium
+  slides:
+
+- presenter: Chongming Liu
+  date: 2023-09-25 10:00:00
+  paper: Some papers about the training algorithm of spiking neural networks
+  url: 
+  pdf: - https://openaccess.thecvf.com/content/CVPR2022/papers/Meng_Training_High-Performance_Low-Latency_Spiking_Neural_Networks_by_Differentiation_on_Spike_CVPR_2022_paper.pdf
+       - https://arxiv.org/pdf/2011.05280.pdf
+  authors: Multiple papers
   slides:
 
 - presenter: Shouwei Luo
