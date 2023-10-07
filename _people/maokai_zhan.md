@@ -1,10 +1,10 @@
 ---
 layout: profile
 title: Maikai Zhan (占毛恺)
-description: 
+description: 2022-2023 undergraduate # PhD Students @SJTU
 img: assets/img/maokai_zhan.jpg
 redirect:
 year: 2022
-category: PhD Students
+category: Alumni
 email: orion008@sjtu.edu.cn
 ---
