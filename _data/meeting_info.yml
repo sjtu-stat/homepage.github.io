@@ -1,3 +1,25 @@
+- presenter: Mingzhang Wang
+  date: 2023-11-06 10:00:00
+  paper: "Learning better with Dale's Law: A Spectral Perspective"
+  url: https://www.biorxiv.org/content/10.1101/2023.06.28.546924v1
+  pdf: https://www.biorxiv.org/content/10.1101/2023.06.28.546924v1.full.pdf
+  slides:
+
+- presenter: Jialin Duan
+  date: 2023-11-01 10:00:00
+  paper: book report of Neuronal Dynamics
+  url: https://neuronaldynamics.epfl.ch
+  pdf: https://neuronaldynamics.epfl.ch/online/index.html
+  slides:
+
+- presenter: Lishuo Zhang
+  date: 2023-10-30 10:00:00
+  paper: Harvesting random embedding for high-frequency change-point detection in temporal complex systems
+  url: https://academic.oup.com/nsr/article/9/4/nwab228/6484821?login=false
+  pdf: https://watermark.silverchair.com/nwab228.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA04wggNKBgkqhkiG9w0BBwagggM7MIIDNwIBADCCAzAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwyBBOV7Cj84wDwENAgEQgIIDAdBgv-v3rG-TJmEXKvOZfJ80fgS1tzSA6bERGcgjh5osOswY0aetT0sG4HMX9vGGiAIwAtp1sLYA7ZsfzFCu9IhBShsqJ8SAdpZIX2PBblB9yk0z2bEH7TAdvnJKOZ07-uoNsZx5td2x39DmLJl9-67Z2_N4CKHf9y39b2dgGnZfWsJPen08XvOnV6NzVu8y08sWhOx76HCO1PlbjgKb4cModzqypry1p34iT4kH0z_mQeAzfUp8FT4SXK5Zg4d9S0SCzQwiqW12OWZF7GN0J_c0JCLRfDjYkrSnR9WE3j7hjyVVFRkCFdoBLGU_R8289vb-d6TGtTGq3QQ-pZJFKqLRwU7Waln1WOR3FFzu7bvh6S9uncgLwuU-kBew80Juhemiq_NkMIkk2qDmG6j-QmvEV1rIbfmNOv_lndNc1jVmKfszVqjUQPcreNJIY-75-G8FPh2WzR_n03qjuzudjl_XO7TE6TCbnB_wQlBK0WGZK3RON6gK5EoN0joAs5brHCI2AzOTvEcYnBGD5MCrSseo6SmN0RZ_VMcXuRDytUsNBK47XFiQ1NyBRHZwL1cX3myZq9V5x9nJr8p-LTNid33AO6pGEJLZwmfW-xfAITICG4B0b8bojQ1X1X7hP2Q8IEh88scQaUV1OBGG_LmzvsBcKtyw-pN8U8L9Ua2aIDlQ77UtFz0FkOQpT9o1JdJjFNHmSJxo2Sr0s5GcNejI76s5Q6qWvBQisjmiKAXkDN8TrrLh3J3U3LHhO3M3-IgoEuQS-vO14e7n1q-viersNtPoCBV4J3g1E9NpnXAvO8XUkZX51YImaaVmKszIhjm4To9EuGp2WEAniv-akzX-dwZ-KQjq_NKqeIC42dmSK0VIE35-na14aq5xwT8uVp_3Pv3B4h_jezazgpdsRJlgeGOfEWvUMzpNgtv6m8eAOfhN8Tu5nL3G3RIgvRJRQN5p48-DmhQiFutFrkO9KQ7Hqj6DcVpza_uUNwFT76QwgzjwhQU9kL6tYL6joaY0JHYzRRE
+  authors: Jia-Wen Hou, Huan-Fei Ma, Dake He, Jie Sun, Qing Nie and Wei Lin
+  slides:
+  
 - presenter: Jingyao Zhang
   date: 2023-10-10 14:00:00
   paper: "Bifurcation in space: Emergence of function modularity in the neocortex"
@@ -74,7 +96,7 @@
 
 - presenter: Zhenyuan Jin
   date: 2023-07-17 10:00:00
-  paper: "A Tweaking Principle for Executive Control: Neuronal Circuit Mechanism for Rule-Based Task Switching and Conflict Resolution"
+  paper: "A Tweaking Principle for Executive Control:  Circuit Mechanism for Rule-Based Task Switching and Conflict Resolution"
   url: https://www.jneurosci.org/content/33/50/19504
   pdf: https://www.jneurosci.org/content/jneuro/33/50/19504.full.pdf
   authors: Salva Ardid and Xiao-Jing Wang
@@ -228,7 +250,7 @@
 
 - presenter: Mingzhang Wang
   date: 2023-03-20 10:00:00
-  paper: "Functional Implications of Dale's Law in Balanced Neuronal Network Dynamics and Decision Making"
+  paper: "Functional Implications of Dale's Law in Balanced  Network Dynamics and Decision Making"
   url: https://www.frontiersin.org/articles/10.3389/fnins.2022.801847/full
   pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8919085/pdf/fnins-16-801847.pdf
   authors: Victor J. Barranca, Asha Bhuiyan, Max Sundgren and Fangzhou Xing
@@ -236,7 +258,7 @@
 
 - presenter: Yeqiang Liao
   date: 2023-03-16 10:00:00
-  paper: Fast algorithms for simulation of neuronal dynamics based on the bilinear dendritic integration rule
+  paper: Fast algorithms for simulation of  dynamics based on the bilinear dendritic integration rule
   url: https://www.intlpress.com/site/pub/pages/journals/items/cms/content/vols/0017/0005/a007/
   pdf: https://www.intlpress.com/site/pub/files/_fulltext/journals/cms/2019/0017/0005/CMS-2019-0017-0005-a007.pdf
   authors: Wei P. Dai, Songting Li and Douglas Zhou
