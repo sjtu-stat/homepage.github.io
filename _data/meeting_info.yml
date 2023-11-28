@@ -1,3 +1,24 @@
+- presenter: Siyuan Shen
+  date: 2023-11-29 10:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  slides:
+
+- presenter: Jingyang Ma
+  date: 2023-11-27 10:00:00
+  paper: "Spiking neurons can discover predictive features by aggregate-label learning"
+  url: https://www.science.org/doi/10.1126/science.aab4113
+  pdf: https://sci-hub.se/10.1126/science.aab4113
+  slides:
+
+- presenter: JiaHua Xiang
+  date: 2023-11-15 10:00:00
+  paper: "Reconstructing the Mind's Eye:fMRI-to-Image with Contrastive Learning and Diffusion Priors"
+  url: https://arxiv.org/abs/2305.18274
+  pdf: https://arxiv.org/pdf/2305.18274.pdf
+  slides:
+
 - presenter: Mingzhang Wang
   date: 2023-11-06 10:00:00
   paper: "Learning better with Dale's Law: A Spectral Perspective"
