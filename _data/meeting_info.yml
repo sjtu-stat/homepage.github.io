@@ -3,6 +3,7 @@
   paper: TBD
   url: 
   pdf: 
+  authors: 
   slides:
 
 - presenter: Jingyang Ma
@@ -10,6 +11,7 @@
   paper: "Spiking neurons can discover predictive features by aggregate-label learning"
   url: https://www.science.org/doi/10.1126/science.aab4113
   pdf: https://sci-hub.se/10.1126/science.aab4113
+  authors: Robert Gütig
   slides:
 
 - presenter: JiaHua Xiang
@@ -17,6 +19,7 @@
   paper: "Reconstructing the Mind's Eye:fMRI-to-Image with Contrastive Learning and Diffusion Priors"
   url: https://arxiv.org/abs/2305.18274
   pdf: https://arxiv.org/pdf/2305.18274.pdf
+  authors: Paul S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, Alex Nguyen, Ethan Cohen, Aidan J. Dempster, Nathalie Verlinde, Elad Yundler, David Weisberg, Kenneth A. Norman, Tanishq Mathew Abraham
   slides:
 
 - presenter: Mingzhang Wang
@@ -24,6 +27,7 @@
   paper: "Learning better with Dale's Law: A Spectral Perspective"
   url: https://www.biorxiv.org/content/10.1101/2023.06.28.546924v1
   pdf: https://www.biorxiv.org/content/10.1101/2023.06.28.546924v1.full.pdf
+  authors: Pingsheng Li, Jonathan Cornford, Arna Ghosh, Blake Richards
   slides:
 
 - presenter: Jialin Duan
