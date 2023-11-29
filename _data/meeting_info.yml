@@ -6,7 +6,7 @@
   authors: 
   slides:
 
-- presenter: Jiahan Zhang
+- presenter: Siyuan Shen
   date: 2023-12-04 10:00:00
   paper: TBD
   url: 
@@ -14,12 +14,12 @@
   authors: 
   slides:
 
-- presenter: Siyuan Shen
+- presenter: Jiahan Zhang
   date: 2023-11-29 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: Sensory-motor cortices shape functional connectivity dynamics in the human brain
+  url: https://www.nature.com/articles/s41467-021-26704-y
+  pdf: https://www.nature.com/articles/s41467-021-26704-y.pdf
+  authors: Xiaolu Kong, Ru Kong, Csaba Orban, Peng Wang, Shaoshi Zhang, Kevin Anderson, Avram Holmes, John D. Murray, Gustavo Deco, Martijn van den Heuvel & B. T. Thomas Yeo 
   slides:
 
 - presenter: Jingyang Ma
