@@ -8,10 +8,10 @@
 
 - presenter: Siyuan Shen
   date: 2023-12-04 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  paper: A simple reservoir model of working memory with real values
+  url: https://arxiv.org/pdf/1806.06545.pdf
+  pdf: https://arxiv.org/pdf/1806.06545.pdf
+  authors: Anthony Strock, Nicolas P. Rougier and Xavier Hinaut
   slides:
 
 - presenter: Jiahan Zhang
