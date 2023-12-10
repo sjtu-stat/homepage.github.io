@@ -1,9 +1,9 @@
 - presenter: Kai Chen
-  date: 2023-12-06 10:00:00
-  paper: TBD
-  url: 
-  pdf: 
-  authors: 
+  date: 2023-12-11 10:00:00
+  paper: Theory of coupled neuronal-synaptic dynamics
+  url: https://arxiv.org/abs/2302.08985
+  pdf: https://arxiv.org/pdf/2302.08985.pdf
+  authors: David G. Clark and Larry F. Abbott
   slides:
 
 - presenter: Siyuan Shen
