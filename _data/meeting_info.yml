@@ -1,3 +1,19 @@
+- presenter: Zhenyuan Jin
+  date: 2023-12-25 10:00:00
+  paper: Local and long-distance organization of prefrontal cortex circuits in the marmoset brain
+  url: https://www.cell.com/neuron/fulltext/S0896-6273(23)00338-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627323003380%3Fshowall%3Dtrue
+  pdf: https://www.cell.com/action/showPdf?pii=S0896-6273%2823%2900338-0
+  authors: Akiya Watakabe, Henrik Skibbe, Ken Nakae, Hiroshi Abe, Noritaka Ichinohe, Muhammad Febrian Rachmadi, Jian Wang, Masafumi Takaji, Hiroaki Mizukami, Alexander Woodward, Rui Gong, Junichi Hata, David C. Van Essen, Hideyuki Okano, Shin Ishii, and Tetsuo Yamamori
+  slides:
+
+- presenter: Xuexing Du
+  date: 2023-12-20 10:00:00
+  paper: Incorporating neuro-inspired adaptability for continual learning in artificial intelligence
+  url: https://www.nature.com/articles/s42256-023-00747-w
+  pdf: https://www.nature.com/articles/s42256-023-00747-w.pdf
+  authors: Liyuan Wang, Xingxing Zhang, Qian Li, Mingtian Zhang, Hang Su, Jun Zhu & Yi Zhong
+  slides:
+  
 - presenter: Kai Chen
   date: 2023-12-11 10:00:00
   paper: Theory of coupled neuronal-synaptic dynamics
