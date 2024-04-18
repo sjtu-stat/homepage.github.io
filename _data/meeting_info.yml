@@ -1,6 +1,6 @@
 - presenter: Lishuo Zhang
   date: 2024-04-18 10:00:00
-  paper: Higher-order Granger reservoir computing: simultaneously achieving scalable complex structures inference and accurate dynamics prediction
+  paper: "Higher-order Granger reservoir computing: simultaneously achieving scalable complex structures inference and accurate dynamics prediction"
   url: https://www.nature.com/articles/s41467-024-46852-1
   pdf: https://www.nature.com/articles/s41467-024-46852-1.pdf
   authors: Xin Li, Qunxi Zhu, Chengli Zhao, Xiaojun Duan, Bolin Zhao, Xue Zhang, Huanfei Ma, Jie Sun & Wei Lin
